@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CommonAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9d7fca31ac4c974499d79bdadb8112fa, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 8bc689203ecb0964481ec60842e66499: 21300000
+    - 7ddef2a0ad5353546856e91634c9ddb9: 21300000
+    - ef6132629a4197d4f85eb7a874284176: 21300000
+    - 09cdab82682f8e640af277e78d0e9300: 21300000
+    - b682c833339067646a40e111306133bd: 21300000
+    - 74270a6368d65634aaf1b984753196a9: 21300000
+    - 5badb665f0ff1f1439fd3f9e2b97368b: 21300000
+    - d890fb7515d25354f99581f28d0b9d16: 21300000
+    - ae9e274663164d54a9ae59095f032ae6: 21300000
+    - 5a65306834570d04288bfabb7aa03893: 21300000
+    - 09fbc8b85b9a34a4f91b36bbb314f4ec: 21300000
+    - 9fad2db8e425ec747928f025d49c456a: 21300000
+    - c980a78b258b67a42a1e9d82a82c195b: 21300000
+    - 7f06589d72588e746836b61de09c2832: 21300000
+    - 63bceebda77f1914191a1f33864a363d: 21300000
+    - 330e67ed0d37ea6478eef8d89972beff: 21300000
+    - 6e17602e98641204ea1318aa91ee2326: 21300000
+    - 3eacadae91da0084aa29905250620e1c: 21300000
+    - 8a5ee48fdbda0f540bcefbace8d958cc: 21300000
+    - fb49f2cf93ffcb34f8997f67929c9922: 21300000
+    - df2b7fefee4f21b4ab4a06b3dfd22a0b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8bc689203ecb0964481ec60842e66499, type: 3}
+  - {fileID: 21300000, guid: 7ddef2a0ad5353546856e91634c9ddb9, type: 3}
+  - {fileID: 21300000, guid: ef6132629a4197d4f85eb7a874284176, type: 3}
+  - {fileID: 21300000, guid: 09cdab82682f8e640af277e78d0e9300, type: 3}
+  - {fileID: 21300000, guid: b682c833339067646a40e111306133bd, type: 3}
+  - {fileID: 21300000, guid: 74270a6368d65634aaf1b984753196a9, type: 3}
+  - {fileID: 21300000, guid: 5badb665f0ff1f1439fd3f9e2b97368b, type: 3}
+  - {fileID: 21300000, guid: d890fb7515d25354f99581f28d0b9d16, type: 3}
+  - {fileID: 21300000, guid: ae9e274663164d54a9ae59095f032ae6, type: 3}
+  - {fileID: 21300000, guid: 5a65306834570d04288bfabb7aa03893, type: 3}
+  - {fileID: 21300000, guid: 09fbc8b85b9a34a4f91b36bbb314f4ec, type: 3}
+  - {fileID: 21300000, guid: 9fad2db8e425ec747928f025d49c456a, type: 3}
+  - {fileID: 21300000, guid: c980a78b258b67a42a1e9d82a82c195b, type: 3}
+  - {fileID: 21300000, guid: 7f06589d72588e746836b61de09c2832, type: 3}
+  - {fileID: 21300000, guid: 63bceebda77f1914191a1f33864a363d, type: 3}
+  - {fileID: 21300000, guid: 330e67ed0d37ea6478eef8d89972beff, type: 3}
+  - {fileID: 21300000, guid: 6e17602e98641204ea1318aa91ee2326, type: 3}
+  - {fileID: 21300000, guid: 3eacadae91da0084aa29905250620e1c, type: 3}
+  - {fileID: 21300000, guid: 8a5ee48fdbda0f540bcefbace8d958cc, type: 3}
+  - {fileID: 21300000, guid: fb49f2cf93ffcb34f8997f67929c9922, type: 3}
+  - {fileID: 21300000, guid: df2b7fefee4f21b4ab4a06b3dfd22a0b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - coin_icon
+  - photo_icon_b_more
+  - diamond_icon
+  - ui_db_8
+  - ui_zs
+  - ui_db
+  - ui_fh
+  - coin_icon_more
+  - prop2_icon
+  - photo_icon
+  - ui_gb
+  - ads_icon
+  - diamond_icon_more
+  - prop1_icon
+  - photo_icon_single
+  - ui_fg_1
+  - ui_xz
+  - coin_icon_large
+  - ui_fg_2
+  - prop3_icon
+  - photo_icon_a_more
+  m_RenderDataMap: {}
+  m_Tag: CommonAtlas
+  m_IsVariant: 0

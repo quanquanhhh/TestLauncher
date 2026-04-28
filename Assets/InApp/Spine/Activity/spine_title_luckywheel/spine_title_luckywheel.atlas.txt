@@ -1,0 +1,27 @@
+
+spine_title_luckywheel.png
+size: 736,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xinnn20
+  rotate: true
+  xy: 152, 667
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+t2
+  rotate: false
+  xy: 228, 612
+  size: 503, 119
+  orig: 511, 125
+  offset: 3, 3
+  index: -1
+title1
+  rotate: false
+  xy: 2, 673
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1

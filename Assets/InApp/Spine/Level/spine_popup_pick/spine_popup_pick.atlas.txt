@@ -1,0 +1,27 @@
+
+spine_popup_pick.png
+size: 660,660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian0
+  rotate: true
+  xy: 129, 95
+  size: 27, 26
+  orig: 31, 30
+  offset: 2, 2
+  index: -1
+kuang1
+  rotate: false
+  xy: 2, 124
+  size: 443, 534
+  orig: 443, 534
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 2, 2
+  size: 120, 125
+  orig: 140, 128
+  offset: 11, 3
+  index: -1

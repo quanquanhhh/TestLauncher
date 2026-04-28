@@ -1,0 +1,27 @@
+
+spine_title_setting.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xinnn20
+  rotate: true
+  xy: 361, 385
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+t4
+  rotate: false
+  xy: 2, 390
+  size: 357, 119
+  orig: 365, 125
+  offset: 4, 3
+  index: -1
+title1
+  rotate: false
+  xy: 361, 451
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1

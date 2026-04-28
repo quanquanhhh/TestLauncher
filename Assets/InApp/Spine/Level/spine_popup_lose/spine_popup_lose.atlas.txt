@@ -1,0 +1,34 @@
+
+spine_popup_lose.png
+size: 1388,1388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 2, 2
+  size: 436, 437
+  orig: 440, 441
+  offset: 2, 2
+  index: -1
+a2
+  rotate: true
+  xy: 441, 154
+  size: 284, 296
+  orig: 294, 305
+  offset: 5, 4
+  index: -1
+dot3
+  rotate: true
+  xy: 739, 368
+  size: 70, 72
+  orig: 79, 81
+  offset: 3, 5
+  index: -1
+light4
+  rotate: false
+  xy: 2, 440
+  size: 937, 944
+  orig: 937, 944
+  offset: 0, 0
+  index: -1

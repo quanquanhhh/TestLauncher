@@ -1,0 +1,27 @@
+
+spine_title_lose.png
+size: 556,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xinnn20
+  rotate: false
+  xy: 487, 328
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+t_lose
+  rotate: false
+  xy: 2, 291
+  size: 483, 260
+  orig: 502, 274
+  offset: 7, 7
+  index: -1
+title2
+  rotate: true
+  xy: 487, 404
+  size: 147, 57
+  orig: 148, 57
+  offset: 1, 0
+  index: -1

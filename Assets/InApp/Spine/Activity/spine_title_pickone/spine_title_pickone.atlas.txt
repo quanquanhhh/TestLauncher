@@ -1,0 +1,27 @@
+
+spine_title_pickone.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xinnn20
+  rotate: true
+  xy: 355, 379
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+t1
+  rotate: false
+  xy: 2, 385
+  size: 351, 118
+  orig: 358, 124
+  offset: 3, 3
+  index: -1
+title1
+  rotate: false
+  xy: 355, 445
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1

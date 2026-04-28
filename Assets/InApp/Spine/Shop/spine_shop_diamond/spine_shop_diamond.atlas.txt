@@ -1,0 +1,27 @@
+
+spine_shop_diamond.png
+size: 496,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xinnn20
+  rotate: false
+  xy: 214, 104
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+light2
+  rotate: false
+  xy: 2, 180
+  size: 311, 313
+  orig: 311, 313
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 2, 2
+  size: 210, 176
+  orig: 212, 180
+  offset: 0, 0
+  index: -1

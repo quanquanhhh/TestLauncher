@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: A4_asset
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: eec9ab0653d94de42872e4812aa1523b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 51565461b4c2396448f26021d8bc1590: 21300000
+    - ba0c3b24e4378b843bd66b9b12720eb2: 21300000
+    - 4687ab55b80b5144492a0924ca58da94: 21300000
+    - 68324ce6481e9f24d9609ce6e6450f76: 21300000
+    - ab936f3703644e94daf12b2e6ec1531e: 21300000
+    - b97f76e8f65114942b8d6f2c82b81166: 21300000
+    - 3319d4c9d782cbb48a96f102a4fa426d: 21300000
+    - dd53c98ad2881e24e9d51713cea8567c: 21300000
+    - 9153679a8593237488bd0f5ad6edda99: 21300000
+    - 34543b7ebc094f84faef74eeb6c94f31: 21300000
+    - 60c8d0af92d80cb4ea0a94cc8e024b9b: 21300000
+    - 655aebcf5fa292740ba94d3ad71f899e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 51565461b4c2396448f26021d8bc1590, type: 3}
+  - {fileID: 21300000, guid: ba0c3b24e4378b843bd66b9b12720eb2, type: 3}
+  - {fileID: 21300000, guid: 4687ab55b80b5144492a0924ca58da94, type: 3}
+  - {fileID: 21300000, guid: 68324ce6481e9f24d9609ce6e6450f76, type: 3}
+  - {fileID: 21300000, guid: ab936f3703644e94daf12b2e6ec1531e, type: 3}
+  - {fileID: 21300000, guid: b97f76e8f65114942b8d6f2c82b81166, type: 3}
+  - {fileID: 21300000, guid: 3319d4c9d782cbb48a96f102a4fa426d, type: 3}
+  - {fileID: 21300000, guid: dd53c98ad2881e24e9d51713cea8567c, type: 3}
+  - {fileID: 21300000, guid: 9153679a8593237488bd0f5ad6edda99, type: 3}
+  - {fileID: 21300000, guid: 34543b7ebc094f84faef74eeb6c94f31, type: 3}
+  - {fileID: 21300000, guid: 60c8d0af92d80cb4ea0a94cc8e024b9b, type: 3}
+  - {fileID: 21300000, guid: 655aebcf5fa292740ba94d3ad71f899e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - A100073
+  - A100076
+  - A100083
+  - A100079
+  - A100074
+  - A100077
+  - A100078
+  - A100075
+  - A100081
+  - A100082
+  - A100080
+  - A100072
+  m_RenderDataMap: {}
+  m_Tag: A4_asset
+  m_IsVariant: 0

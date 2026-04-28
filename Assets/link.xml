@@ -1,0 +1,5 @@
+<linker>
+  <assembly fullname="Unity.TextMeshPro" preserve="all" />
+  <assembly fullname="YooAsset" preserve="all"/>
+  <assembly fullname="YooAsset.RuntimeExtension" preserve="all"/>
+</linker>

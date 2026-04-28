@@ -1,0 +1,459 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTables_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: fc88b2cac51a48b40a370ae203c61634, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 22047711232
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1944985100288
+    m_Localized: Tingkat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1026694784049152
+    m_Localized: Hapus Iklan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027754420428800
+    m_Localized: Hapus iklan wajib
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028305954627584
+    m_Localized: Hapus iklan banner bawah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028531402661888
+    m_Localized: Hapus iklan interstisial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1030462497972224
+    m_Localized: Berlangganan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069497182412800
+    m_Localized: Roda Keberuntungan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069742196875264
+    m_Localized: Judul Tantangan Harian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077460555096064
+    m_Localized: Paket Hadiah Terbatas Waktu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079420305891328
+    m_Localized: Perjumpaan Indah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080215373963264
+    m_Localized: Keuntungan Eksklusif
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080641049681920
+    m_Localized: Tantangan Harian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081228722003968
+    m_Localized: Hadiah Rahasia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082224978255872
+    m_Localized: Hadiah Harian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082611160408064
+    m_Localized: VIP Permanen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082880782852096
+    m_Localized: Pertunjukan Bakat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084015266586624
+    m_Localized: Toko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084481522196480
+    m_Localized: Koleksi Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457103061737472
+    m_Localized: Semua Gambar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457326743969792
+    m_Localized: Berlangganan seumur hidup dan buka semua koleksi, dapatkan sekarang!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084627997745152
+    m_Localized: Koin dan Berlian Gratis Harian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084741801795584
+    m_Localized: Hadiah Level Ganda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084797233717248
+    m_Localized: Unduhan Gambar Gratis Tanpa Batas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084861691781120
+    m_Localized: Main Tanpa Batas untuk Level Tersembunyi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084916700078080
+    m_Localized: Hapus iklan interstisial dan banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084981548212224
+    m_Localized: Hapus semua jenis iklan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095558525935616
+    m_Localized: Dapatkan manfaat VIP sekarang dan nikmati semua fasilitas!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095903381610496
+    m_Localized: Berlangganan VIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6176874374193152
+    m_Localized: Unduh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6537268078927872
+    m_Localized: Obral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9365462528122880
+    m_Localized: Klaim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9379714060083200
+    m_Localized: Tanda Tangan Judul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9380895448719360
+    m_Localized: Properti Tidak Cukup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536659192602624
+    m_Localized: Album
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537607273078784
+    m_Localized: Arab (Arab Saudi)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537611861647360
+    m_Localized: Arab (Uni Emirat Arab)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537615590383616
+    m_Localized: Bahasa Myanmar (my)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537602755813376
+    m_Localized: Mandarin Tradisional (zh-TW)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537356764078080
+    m_Localized: Hubungi Kami
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536749818929152
+    m_Localized: Tarik {0} Kali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537618719334400
+    m_Localized: Bahasa Belanda (nl)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538455126466560
+    m_Localized: Bahasa Inggris (Kanada) (en-CA)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537237314494464
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537426553102336
+    m_Localized: Bahasa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537078769803264
+    m_Localized: Suka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536549377335296
+    m_Localized: Bundel Waktu Terbatas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535878020259840
+    m_Localized: Berlangganan Bulanan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538639453544448
+    m_Localized: Bahasa Inggris (Filipina) (en-PH)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538641697497088
+    m_Localized: Bahasa Inggris (Singapura) (en-SG)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538657413554176
+    m_Localized: Bahasa Portugis (Brasil) (pt-BR)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538658982223872
+    m_Localized: Bahasa Rusia (ru)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538660605419520
+    m_Localized: Bahasa Spanyol (Meksiko) (es-MX)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538662241198080
+    m_Localized: Bahasa Thailand (th)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538663944085504
+    m_Localized: Bahasa Vietnam (Vietnam) (vi-VN)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538643815620608
+    m_Localized: Bahasa Inggris (Inggris) (en-GB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538645573033984
+    m_Localized: Bahasa Inggris (AS) (en-US)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538647267532800
+    m_Localized: Bahasa Inggris (en)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538648941060096
+    m_Localized: Bahasa Prancis (fr)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538650543284224
+    m_Localized: Bahasa Jerman (de)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538652200034304
+    m_Localized: Bahasa Indonesia (id)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538653974224896
+    m_Localized: Bahasa Jepang (Jepang) (ja-JP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538655622586368
+    m_Localized: Bahasa Korea (Korea Selatan) (ko-KR)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537515879194624
+    m_Localized: Mati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537433029107712
+    m_Localized: Nyala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535961340108800
+    m_Localized: Pembayaran Sekali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535756616130560
+    m_Localized: Kebijakan Privasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537383213359104
+    m_Localized: Kebijakan Privasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536281382281216
+    m_Localized: Waktu Tersisa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537169891057664
+    m_Localized: Atur Ulang Latar Belakang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537621605015552
+    m_Localized: Mulai Ulang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537597366132736
+    m_Localized: Pulihkan Pembelian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537147560583168
+    m_Localized: Atur Latar Belakang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536772392673280
+    m_Localized: Toko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535809736990720
+    m_Localized: Ketentuan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786229923307520
+    m_Localized: Klik ubin mahjong untuk meletakkannya di kisi bawah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786211518701568
+    m_Localized: Panduan Properti 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786190408769536
+    m_Localized: Panduan Properti 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786153092046848
+    m_Localized: Panduan Properti 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786125455777792
+    m_Localized: Klik untuk masuk ke Pengaturan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786104568143872
+    m_Localized: Klik untuk kembali ke Beranda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785827370786816
+    m_Localized: Tidak Ada Jaringan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785786912530432
+    m_Localized: Negara Diblokir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785734563422208
+    m_Localized: Tunggu Sebentar dan Coba Lagi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785711276646400
+    m_Localized: Berlian Tidak Cukup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785653542051840
+    m_Localized: Koin Tidak Cukup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785584029851648
+    m_Localized: Tidak Ada Kali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785555793797120
+    m_Localized: Hari ini sudah diklaim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785497631383552
+    m_Localized: Tidak Dapat Klaim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785434955898880
+    m_Localized: Belum Waktunya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785387820310528
+    m_Localized: Pemulihan Pembelian Gagal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785347001344000
+    m_Localized: Pemulihan Pembelian Berhasil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785305721004032
+    m_Localized: Pembelian Gagal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785280056057856
+    m_Localized: Pembelian Berhasil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785243603361792
+    m_Localized: Foto Tidak Cukup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777488029081600
+    m_Localized: Kumpulkan 7 hari untuk membuka hadiah utama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777322098221056
+    m_Localized: Tutup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777088785866752
+    m_Localized: Judul Diskon Rahasia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776793578168320
+    m_Localized: Diskon Rahasia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776458558136320
+    m_Localized: Judul Pass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834737460109312
+    m_Localized: Tiga ubin mahjong identik akan dihapus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834747740348416
+    m_Localized: Hapus semua ubin mahjong untuk menang!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834757135589376
+    m_Localized: Kemenangan membawa hadiah yang melimpah!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834768552484864
+    m_Localized: Anda bisa mendapatkan lebih banyak gambar keren dan koin!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834800420806656
+    m_Localized: Acara baru telah dimulai! Mari kita lihat!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834816795369472
+    m_Localized: Berikutnya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834832196853760
+    m_Localized: Lewati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838537814106112
+    m_Localized: Klik di sini untuk kembali ke lobi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838664515641344
+    m_Localized: Klik di sini untuk mengubah pengaturan game
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

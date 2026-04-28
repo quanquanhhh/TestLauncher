@@ -1,0 +1,27 @@
+
+spine_aixin.png
+size: 402,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_xin
+  rotate: true
+  xy: 312, 74
+  size: 98, 88
+  orig: 300, 281
+  offset: 101, 91
+  index: -1
+mh_glow_a
+  rotate: false
+  xy: 2, 2
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+mh_glow_b
+  rotate: false
+  xy: 175, 36
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1

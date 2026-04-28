@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: limitedtimegift_B_asset
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e300807d605223b4d8c00ecb1040cc2c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9633e24189ded564c8d52855da0fb581: 21300000
+    - b2b752a49c1b21b48807401467f7841d: 21300000
+    - b417c1b78279b964e8687a5dd7681c15: 21300000
+    - a0300f79434d50d4880e6fb0ba2b3188: 21300000
+    - 41d453fbb8b29cb4e97167f636dc7278: 21300000
+    - f56dc2ad5f635814eb8e8dcba6382891: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9633e24189ded564c8d52855da0fb581, type: 3}
+  - {fileID: 21300000, guid: b2b752a49c1b21b48807401467f7841d, type: 3}
+  - {fileID: 21300000, guid: b417c1b78279b964e8687a5dd7681c15, type: 3}
+  - {fileID: 21300000, guid: a0300f79434d50d4880e6fb0ba2b3188, type: 3}
+  - {fileID: 21300000, guid: 41d453fbb8b29cb4e97167f636dc7278, type: 3}
+  - {fileID: 21300000, guid: f56dc2ad5f635814eb8e8dcba6382891, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Lgift_B003
+  - Lgift_B004
+  - Lgift_B006
+  - Lgift_B005
+  - Lgift_B001
+  - Lgift_B002
+  m_RenderDataMap: {}
+  m_Tag: limitedtimegift_B_asset
+  m_IsVariant: 0

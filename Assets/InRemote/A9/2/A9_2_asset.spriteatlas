@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: A9_2_asset
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3e98982e991bb4245a747d5444f6b641, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f1e286b1c1ebfc146b1a64df1c8abc79: 21300000
+    - ab994685c90b91e4e9f6f11158c81d0c: 21300000
+    - 7df1f606cd92284449ad6074da8e532b: 21300000
+    - 8f52fa06bd1f8f348ab1e0d7fd561458: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f1e286b1c1ebfc146b1a64df1c8abc79, type: 3}
+  - {fileID: 21300000, guid: ab994685c90b91e4e9f6f11158c81d0c, type: 3}
+  - {fileID: 21300000, guid: 7df1f606cd92284449ad6074da8e532b, type: 3}
+  - {fileID: 21300000, guid: 8f52fa06bd1f8f348ab1e0d7fd561458, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - A100198
+  - A100199
+  - A100197
+  - A100200
+  m_RenderDataMap: {}
+  m_Tag: A9_2_asset
+  m_IsVariant: 0

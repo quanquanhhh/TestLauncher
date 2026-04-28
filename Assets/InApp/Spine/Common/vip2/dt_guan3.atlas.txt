@@ -1,0 +1,146 @@
+
+dt_guan3.png
+size: 930,2026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuijin_00
+  rotate: true
+  xy: 724, 1898
+  size: 128, 206
+  orig: 360, 360
+  offset: 2, 11
+  index: -1
+shuijin_01
+  rotate: true
+  xy: 0, 418
+  size: 160, 256
+  orig: 360, 360
+  offset: 12, 8
+  index: -1
+shuijin_02
+  rotate: false
+  xy: 724, 674
+  size: 180, 282
+  orig: 360, 360
+  offset: 28, 6
+  index: -1
+shuijin_03
+  rotate: false
+  xy: 724, 958
+  size: 191, 302
+  orig: 360, 360
+  offset: 50, 8
+  index: -1
+shuijin_04
+  rotate: false
+  xy: 724, 1262
+  size: 192, 312
+  orig: 360, 360
+  offset: 72, 15
+  index: -1
+shuijin_05
+  rotate: false
+  xy: 724, 1576
+  size: 197, 320
+  orig: 360, 360
+  offset: 98, 18
+  index: -1
+shuijin_06
+  rotate: true
+  xy: 362, 0
+  size: 216, 348
+  orig: 360, 360
+  offset: 124, 0
+  index: -1
+shuijin_07
+  rotate: false
+  xy: 724, 401
+  size: 174, 271
+  orig: 360, 360
+  offset: 148, 77
+  index: -1
+shuijin_08
+  rotate: false
+  xy: 724, 159
+  size: 144, 240
+  orig: 360, 360
+  offset: 199, 108
+  index: -1
+shuijin_09
+  rotate: false
+  xy: 258, 425
+  size: 95, 153
+  orig: 360, 360
+  offset: 252, 152
+  index: -1
+shuijinguan_00
+  rotate: false
+  xy: 0, 1666
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_01
+  rotate: false
+  xy: 362, 1666
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_02
+  rotate: false
+  xy: 0, 1304
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_03
+  rotate: false
+  xy: 362, 1304
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_04
+  rotate: false
+  xy: 0, 942
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_05
+  rotate: false
+  xy: 362, 942
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_06
+  rotate: false
+  xy: 0, 580
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_07
+  rotate: false
+  xy: 362, 580
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_08
+  rotate: false
+  xy: 0, 39
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+shuijinguan_09
+  rotate: false
+  xy: 362, 218
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,496 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocalizationTables Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LocalizationTables
+  m_TableCollectionNameGuidString: fc88b2cac51a48b40a370ae203c61634
+  m_Entries:
+  - m_Id: 14536659192602624
+    m_Key: Album
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457103061737472
+    m_Key: AllPictures
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537607273078784
+    m_Key: Arabic (Saudi Arabia) (ar-SA)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537611861647360
+    m_Key: Arabic (United Arab Emirates) (ar-AE)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079420305891328
+    m_Key: BeautyEncounters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1030462497972224
+    m_Key: Btn_Subscribe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537615590383616
+    m_Key: Burmese (my)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537602755813376
+    m_Key: Chinese (Traditional) (zh-TW)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9365462528122880
+    m_Key: Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537356764078080
+    m_Key: ConnectUs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080641049681920
+    m_Key: DailyChallenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069742196875264
+    m_Key: DailyCHallenge_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082224978255872
+    m_Key: DailyGift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6176874374193152
+    m_Key: Download
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536749818929152
+    m_Key: DrawTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537618719334400
+    m_Key: Dutch (nl)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538455126466560
+    m_Key: English (Canada) (en-CA)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080215373963264
+    m_Key: ExclusiveBenefits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537237314494464
+    m_Key: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537426553102336
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537078769803264
+    m_Key: Like
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077460555096064
+    m_Key: Limited-time_GiftPack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536549377335296
+    m_Key: LimitedTimeBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069497182412800
+    m_Key: LuckyWheel_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1944985100288
+    m_Key: MainUI_Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22047711232
+    m_Key: MainUI_Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535878020259840
+    m_Key: MonthlySubscription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084481522196480
+    m_Key: MyCollection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538639453544448
+    m_Key: English (Philippines) (en-PH)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538641697497088
+    m_Key: English (Singapore) (en-SG)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538657413554176
+    m_Key: Portuguese (Brazil) (pt-BR)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538658982223872
+    m_Key: Russian (ru)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538660605419520
+    m_Key: Spanish (Mexico) (es-MX)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538662241198080
+    m_Key: Thai (th)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538663944085504
+    m_Key: Vietnamese (Vietnam) (vi-VN)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538643815620608
+    m_Key: English (United Kingdom) (en-GB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538645573033984
+    m_Key: English (United States) (en-US)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538647267532800
+    m_Key: English (en)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538648941060096
+    m_Key: French (fr)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538650543284224
+    m_Key: German (de)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538652200034304
+    m_Key: Indonesian (id)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538653974224896
+    m_Key: Japanese (Japan) (ja-JP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538655622586368
+    m_Key: Korean (South Korea) (ko-KR)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9380895448719360
+    m_Key: NoEnoughProp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537515879194624
+    m_Key: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537433029107712
+    m_Key: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535961340108800
+    m_Key: OneTimePaynment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457326743969792
+    m_Key: Permanent_Tips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082611160408064
+    m_Key: PermanentVIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535756616130560
+    m_Key: Privacy_Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537383213359104
+    m_Key: PrivacyPolicy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536281382281216
+    m_Key: RemainingTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027754420428800
+    m_Key: RemoveAds_content1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028305954627584
+    m_Key: RemoveAds_content2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028531402661888
+    m_Key: RemoveAds_content3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1026694784049152
+    m_Key: RemoveAds_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537169891057664
+    m_Key: ResetBackGround
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537621605015552
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537597366132736
+    m_Key: RestorePurchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6537268078927872
+    m_Key: Sale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081228722003968
+    m_Key: SecretGift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537147560583168
+    m_Key: SetBackGround
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536772392673280
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084015266586624
+    m_Key: Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082880782852096
+    m_Key: TalentShow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535809736990720
+    m_Key: Term
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9379714060083200
+    m_Key: Title_Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084627997745152
+    m_Key: VIP_Content1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084741801795584
+    m_Key: VIP_Content2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084797233717248
+    m_Key: VIP_Content3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084861691781120
+    m_Key: VIP_Content4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084916700078080
+    m_Key: VIP_Content5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084981548212224
+    m_Key: VIP_Content6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095903381610496
+    m_Key: Vip_Subscribe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095558525935616
+    m_Key: VIP_TIPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776458558136320
+    m_Key: Pass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776793578168320
+    m_Key: SecretDiscount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777088785866752
+    m_Key: SecretDiscount_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777322098221056
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777488029081600
+    m_Key: SIgn_Day7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785243603361792
+    m_Key: NoEnoughPhotos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785280056057856
+    m_Key: PurchaseSuccess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785305721004032
+    m_Key: PurcheseFailed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785347001344000
+    m_Key: RestorePurchasesSuccess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785387820310528
+    m_Key: RestorePurchaseFailed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785434955898880
+    m_Key: NotTimeYet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785497631383552
+    m_Key: CantClaim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785555793797120
+    m_Key: todayhasClaimed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785584029851648
+    m_Key: NoTimes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785653542051840
+    m_Key: NoEnoughCoins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785711276646400
+    m_Key: NoEnoughDiamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785734563422208
+    m_Key: WaitTimeRetry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785786912530432
+    m_Key: Ban_Country
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785827370786816
+    m_Key: NoNetwork
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786104568143872
+    m_Key: ClickToHome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786125455777792
+    m_Key: ClickToSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786153092046848
+    m_Key: Prop1_guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786190408769536
+    m_Key: Prop2_guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786211518701568
+    m_Key: Prop3_guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786229923307520
+    m_Key: gameplay_guide1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834737460109312
+    m_Key: gameplay_guide2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834747740348416
+    m_Key: gameplay_guide3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834757135589376
+    m_Key: gameplay_guide4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834768552484864
+    m_Key: gameplay_guide5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834800420806656
+    m_Key: NewActivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834816795369472
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834832196853760
+    m_Key: skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838537814106112
+    m_Key: Guide_BackToHome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838664515641344
+    m_Key: Guide_Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15225474114740224
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15225557887574016
+    m_Key: NextLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15225593610461184
+    m_Key: DontKeepTHeGirlsWaiting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15225910855032832
+    m_Key: Congratulations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226235494162432
+    m_Key: Use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226249104678912
+    m_Key: Use_a_booster_to_continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226461999161344
+    m_Key: autoplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226478512136192
+    m_Key: pause
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8338791044299096088
+  references:
+    version: 2
+    RefIds:
+    - rid: 8338791044299096088
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1773386171708

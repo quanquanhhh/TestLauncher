@@ -1,0 +1,27 @@
+
+spine_title_limited.png
+size: 436,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xinnn20
+  rotate: true
+  xy: 152, 370
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+t6
+  rotate: false
+  xy: 2, 186
+  size: 432, 182
+  orig: 439, 189
+  offset: 3, 4
+  index: -1
+title1
+  rotate: false
+  xy: 2, 376
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1

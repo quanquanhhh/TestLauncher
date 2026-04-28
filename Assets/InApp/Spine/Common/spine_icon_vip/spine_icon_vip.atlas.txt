@@ -1,0 +1,27 @@
+
+spine_icon_vip.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xinnn20
+  rotate: false
+  xy: 2, 2
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+vip2
+  rotate: false
+  xy: 2, 161
+  size: 152, 162
+  orig: 168, 175
+  offset: 8, 6
+  index: -1
+vip3
+  rotate: false
+  xy: 2, 78
+  size: 161, 81
+  orig: 162, 81
+  offset: 1, 0
+  index: -1

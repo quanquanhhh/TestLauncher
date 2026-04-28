@@ -1,0 +1,20 @@
+
+spine_icon_gift1.png
+size: 212,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift
+  rotate: false
+  xy: 2, 92
+  size: 139, 115
+  orig: 143, 119
+  offset: 2, 2
+  index: -1
+images/xinnn20
+  rotate: false
+  xy: 143, 133
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1

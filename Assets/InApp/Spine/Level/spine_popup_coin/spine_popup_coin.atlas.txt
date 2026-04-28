@@ -1,0 +1,27 @@
+
+spine_popup_coin.png
+size: 1288,1288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin2
+  rotate: false
+  xy: 2, 2
+  size: 597, 335
+  orig: 597, 335
+  offset: 0, 0
+  index: -1
+images/lizi726
+  rotate: false
+  xy: 601, 298
+  size: 39, 39
+  orig: 47, 47
+  offset: 4, 4
+  index: -1
+light3
+  rotate: false
+  xy: 2, 339
+  size: 937, 944
+  orig: 937, 944
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: A0_1_asset
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d02d63c086149904e80a4e4c10b90cf8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - d1ac6200af74afe4b8e4c64c5255105f: 21300000
+    - 93aad120cf3309f498df939c95170230: 21300000
+    - 448f5b810c0a4434486204edd81b4ae8: 21300000
+    - d408dd12fc96d6c48b2aed8811fa71ef: 21300000
+    - 66f029232b4ce4543bff3507a56f7766: 21300000
+    - 1ab41793281ec1843ab2609a54aac939: 21300000
+    - 11ade294053fbd54789e4c2365068b03: 21300000
+    - d5be837570d490a428e1e0e41bd7474e: 21300000
+    - 6ae1d195fa51b454697f1b928d7b7b54: 21300000
+    - 36996736e676942438665c437171ce15: 21300000
+    - 968da6f68e21f314197916191c6153d0: 21300000
+    - 746de61745ca2574084c51fbc8bc8047: 21300000
+    - 70fae54707f0bb84cb59f27612088e87: 21300000
+    - 7d04b6ca1057d40488582fd8e2564ac9: 21300000
+    - 4aa7079c79853674e981c4f2a228eb70: 21300000
+    - ef7837dc14586b647b01563ddf414344: 21300000
+    - 6e91462d39e313d4b8c7e1ec63d48bef: 21300000
+    - 794bd08e71a925043acca480c4050ab8: 21300000
+    - ee68e97f908c52c4db307d794152863f: 21300000
+    - c34e8b9f6c67a6e418464ce4a2d40149: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d1ac6200af74afe4b8e4c64c5255105f, type: 3}
+  - {fileID: 21300000, guid: 93aad120cf3309f498df939c95170230, type: 3}
+  - {fileID: 21300000, guid: 448f5b810c0a4434486204edd81b4ae8, type: 3}
+  - {fileID: 21300000, guid: d408dd12fc96d6c48b2aed8811fa71ef, type: 3}
+  - {fileID: 21300000, guid: 66f029232b4ce4543bff3507a56f7766, type: 3}
+  - {fileID: 21300000, guid: 1ab41793281ec1843ab2609a54aac939, type: 3}
+  - {fileID: 21300000, guid: 11ade294053fbd54789e4c2365068b03, type: 3}
+  - {fileID: 21300000, guid: d5be837570d490a428e1e0e41bd7474e, type: 3}
+  - {fileID: 21300000, guid: 6ae1d195fa51b454697f1b928d7b7b54, type: 3}
+  - {fileID: 21300000, guid: 36996736e676942438665c437171ce15, type: 3}
+  - {fileID: 21300000, guid: 968da6f68e21f314197916191c6153d0, type: 3}
+  - {fileID: 21300000, guid: 746de61745ca2574084c51fbc8bc8047, type: 3}
+  - {fileID: 21300000, guid: 70fae54707f0bb84cb59f27612088e87, type: 3}
+  - {fileID: 21300000, guid: 7d04b6ca1057d40488582fd8e2564ac9, type: 3}
+  - {fileID: 21300000, guid: 4aa7079c79853674e981c4f2a228eb70, type: 3}
+  - {fileID: 21300000, guid: ef7837dc14586b647b01563ddf414344, type: 3}
+  - {fileID: 21300000, guid: 6e91462d39e313d4b8c7e1ec63d48bef, type: 3}
+  - {fileID: 21300000, guid: 794bd08e71a925043acca480c4050ab8, type: 3}
+  - {fileID: 21300000, guid: ee68e97f908c52c4db307d794152863f, type: 3}
+  - {fileID: 21300000, guid: c34e8b9f6c67a6e418464ce4a2d40149, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - A100005
+  - A100001
+  - A100016
+  - A100019
+  - A100010
+  - A100015
+  - A100004
+  - A100006
+  - A100008
+  - A100011
+  - A100020
+  - A100002
+  - A100009
+  - A100003
+  - A100012
+  - A100013
+  - A100018
+  - A100014
+  - A100017
+  - A100007
+  m_RenderDataMap: {}
+  m_Tag: A0_1_asset
+  m_IsVariant: 0

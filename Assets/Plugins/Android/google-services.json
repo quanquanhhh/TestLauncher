@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728427647860",
+    "project_id": "desiregirls-fe927",
+    "storage_bucket": "desiregirls-fe927.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728427647860:android:2f71a14f23fa0b14e35221",
+        "android_client_info": {
+          "package_name": "com.Desire.Girls.Mahjong.Match.Tile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_bsjqvA52sJo8JAHje48K8-cFLBZwQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+
+spine_logo.png
+size: 616,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dot
+  rotate: false
+  xy: 461, 89
+  size: 70, 72
+  orig: 79, 81
+  offset: 3, 5
+  index: -1
+mj
+  rotate: false
+  xy: 310, 3
+  size: 149, 158
+  orig: 157, 165
+  offset: 4, 3
+  index: -1
+t1
+  rotate: true
+  xy: 310, 163
+  size: 886, 304
+  orig: 914, 334
+  offset: 14, 17
+  index: -1
+t2
+  rotate: true
+  xy: 2, 2
+  size: 1047, 306
+  orig: 1063, 336
+  offset: 0, 16
+  index: -1

@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Coin1of3_3_asset
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4a68f8945ca1d964a836465c8ccce4c1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 67eb6900358c0c8469b2261ace26b1dd: 21300000
+    - 56258e306b6ff7a4191ecd1c16e85921: 21300000
+    - a6b4bfc01a06fb944b0c657faeeb184d: 21300000
+    - 5f1e6ae06bfa4034bb87c584d527c7da: 21300000
+    - 35197811631c3ee4183eb51524f29c78: 21300000
+    - a7a5288101eec6c4ab164e1b47c831fc: 21300000
+    - a59cd8030edfc8844993f9ff77506a70: 21300000
+    - fa681333615e2f74bbaeb9ada1c0b34b: 21300000
+    - 0c8be1d307cf61c4690aca7fb7a5d10d: 21300000
+    - 5a59a7e337e88b54e910dc1b130937fb: 21300000
+    - dc7cb4d45c52379409ea1ad6cb1b7ccb: 21300000
+    - 15ba1ef4b6e71d046ad05dd22c1b92a4: 21300000
+    - 51ee9f25c1cf2964ab0fdeb14e6d440c: 21300000
+    - c9305b6533415774fb9706a2c6fc8534: 21300000
+    - 167395e5554fb5a43a5f14006efc31c4: 21300000
+    - 9a2401f6d6c7da240a09eb692ad919a4: 21300000
+    - 8bd9087783292214795fa36f2317e9fe: 21300000
+    - 5d797397ecc933340b85ca0ebfd79fb9: 21300000
+    - f170d7b7b942bad43b816f9cf8bfa448: 21300000
+    - d74761c783c57cd4980920948fa052b8: 21300000
+    - 26a1bfc79c677814fb6d286ea2bda588: 21300000
+    - 83fa3e3892a79df4a936dd4dc63c3e45: 21300000
+    - 3aa2dc482916fa641a049677848a7f72: 21300000
+    - 0202b8689b075e646b4e05a82c057454: 21300000
+    - 75c401d8c77e52f469a420c118193158: 21300000
+    - 14a52939eeddec24c902ef45e23bcaa7: 21300000
+    - 5fbb3af9df8fa974bb7530c42c459ce0: 21300000
+    - 77e7311a44918704c85b5ca0375e6751: 21300000
+    - 12cd734a77e66074a95709b627e26c3b: 21300000
+    - fa9c8e6aeaee4254981f7696dd236cf0: 21300000
+    - 0a80c2aad20bb264482e902982fc8f2b: 21300000
+    - cd2691fa165a4ce41bde0db5541f522a: 21300000
+    - 18c8783b059466c43934f52f29b98460: 21300000
+    - a3a7093baa53d4543bab786a3c24e821: 21300000
+    - fd6138bb41cba344fa7bc8724ad56f48: 21300000
+    - 3a943cfb64dae7147bb25a41c98dc72a: 21300000
+    - 383dba0cb9507ab47a153db159c2fdec: 21300000
+    - 79f44b0c8d894c3428b4f27f6925a05a: 21300000
+    - 7ab5c6dc223610b4b90d1b5e458ad908: 21300000
+    - 6b3a706d466fb4141b609b1317679c95: 21300000
+    - d3c1acbd93674e648b987b3df507775a: 21300000
+    - e2295aed5855458418289fe3d8b333f8: 21300000
+    - 9d9f3bed56bef69429f69a0eb8c21926: 21300000
+    - 7baf6e2e8c9066741b590a127d5bd1ad: 21300000
+    - d47d866eb7249174fa5e8315e5e69273: 21300000
+    - 4160037e28a811547b4dea411db2a7ac: 21300000
+    - 4bd289cec84f1234dabad21a8b2c6e8d: 21300000
+    - ccbf210f11aa8754c8d6b0ccc54bf238: 21300000
+    - 5e61471f3ce44dc41aeda173ca539f87: 21300000
+    - ed7457ef7f5c7194fb2d19e41773f98f: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 67eb6900358c0c8469b2261ace26b1dd, type: 3}
+  - {fileID: 21300000, guid: 56258e306b6ff7a4191ecd1c16e85921, type: 3}
+  - {fileID: 21300000, guid: a6b4bfc01a06fb944b0c657faeeb184d, type: 3}
+  - {fileID: 21300000, guid: 5f1e6ae06bfa4034bb87c584d527c7da, type: 3}
+  - {fileID: 21300000, guid: 35197811631c3ee4183eb51524f29c78, type: 3}
+  - {fileID: 21300000, guid: a7a5288101eec6c4ab164e1b47c831fc, type: 3}
+  - {fileID: 21300000, guid: a59cd8030edfc8844993f9ff77506a70, type: 3}
+  - {fileID: 21300000, guid: fa681333615e2f74bbaeb9ada1c0b34b, type: 3}
+  - {fileID: 21300000, guid: 0c8be1d307cf61c4690aca7fb7a5d10d, type: 3}
+  - {fileID: 21300000, guid: 5a59a7e337e88b54e910dc1b130937fb, type: 3}
+  - {fileID: 21300000, guid: dc7cb4d45c52379409ea1ad6cb1b7ccb, type: 3}
+  - {fileID: 21300000, guid: 15ba1ef4b6e71d046ad05dd22c1b92a4, type: 3}
+  - {fileID: 21300000, guid: 51ee9f25c1cf2964ab0fdeb14e6d440c, type: 3}
+  - {fileID: 21300000, guid: c9305b6533415774fb9706a2c6fc8534, type: 3}
+  - {fileID: 21300000, guid: 167395e5554fb5a43a5f14006efc31c4, type: 3}
+  - {fileID: 21300000, guid: 9a2401f6d6c7da240a09eb692ad919a4, type: 3}
+  - {fileID: 21300000, guid: 8bd9087783292214795fa36f2317e9fe, type: 3}
+  - {fileID: 21300000, guid: 5d797397ecc933340b85ca0ebfd79fb9, type: 3}
+  - {fileID: 21300000, guid: f170d7b7b942bad43b816f9cf8bfa448, type: 3}
+  - {fileID: 21300000, guid: d74761c783c57cd4980920948fa052b8, type: 3}
+  - {fileID: 21300000, guid: 26a1bfc79c677814fb6d286ea2bda588, type: 3}
+  - {fileID: 21300000, guid: 83fa3e3892a79df4a936dd4dc63c3e45, type: 3}
+  - {fileID: 21300000, guid: 3aa2dc482916fa641a049677848a7f72, type: 3}
+  - {fileID: 21300000, guid: 0202b8689b075e646b4e05a82c057454, type: 3}
+  - {fileID: 21300000, guid: 75c401d8c77e52f469a420c118193158, type: 3}
+  - {fileID: 21300000, guid: 14a52939eeddec24c902ef45e23bcaa7, type: 3}
+  - {fileID: 21300000, guid: 5fbb3af9df8fa974bb7530c42c459ce0, type: 3}
+  - {fileID: 21300000, guid: 77e7311a44918704c85b5ca0375e6751, type: 3}
+  - {fileID: 21300000, guid: 12cd734a77e66074a95709b627e26c3b, type: 3}
+  - {fileID: 21300000, guid: fa9c8e6aeaee4254981f7696dd236cf0, type: 3}
+  - {fileID: 21300000, guid: 0a80c2aad20bb264482e902982fc8f2b, type: 3}
+  - {fileID: 21300000, guid: cd2691fa165a4ce41bde0db5541f522a, type: 3}
+  - {fileID: 21300000, guid: 18c8783b059466c43934f52f29b98460, type: 3}
+  - {fileID: 21300000, guid: a3a7093baa53d4543bab786a3c24e821, type: 3}
+  - {fileID: 21300000, guid: fd6138bb41cba344fa7bc8724ad56f48, type: 3}
+  - {fileID: 21300000, guid: 3a943cfb64dae7147bb25a41c98dc72a, type: 3}
+  - {fileID: 21300000, guid: 383dba0cb9507ab47a153db159c2fdec, type: 3}
+  - {fileID: 21300000, guid: 79f44b0c8d894c3428b4f27f6925a05a, type: 3}
+  - {fileID: 21300000, guid: 7ab5c6dc223610b4b90d1b5e458ad908, type: 3}
+  - {fileID: 21300000, guid: 6b3a706d466fb4141b609b1317679c95, type: 3}
+  - {fileID: 21300000, guid: d3c1acbd93674e648b987b3df507775a, type: 3}
+  - {fileID: 21300000, guid: e2295aed5855458418289fe3d8b333f8, type: 3}
+  - {fileID: 21300000, guid: 9d9f3bed56bef69429f69a0eb8c21926, type: 3}
+  - {fileID: 21300000, guid: 7baf6e2e8c9066741b590a127d5bd1ad, type: 3}
+  - {fileID: 21300000, guid: d47d866eb7249174fa5e8315e5e69273, type: 3}
+  - {fileID: 21300000, guid: 4160037e28a811547b4dea411db2a7ac, type: 3}
+  - {fileID: 21300000, guid: 4bd289cec84f1234dabad21a8b2c6e8d, type: 3}
+  - {fileID: 21300000, guid: ccbf210f11aa8754c8d6b0ccc54bf238, type: 3}
+  - {fileID: 21300000, guid: 5e61471f3ce44dc41aeda173ca539f87, type: 3}
+  - {fileID: 21300000, guid: ed7457ef7f5c7194fb2d19e41773f98f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Coin130
+  - Coin127
+  - Coin129
+  - Coin103
+  - Coin133
+  - Coin106
+  - Coin119
+  - Coin110
+  - Coin118
+  - Coin124
+  - Coin101
+  - Coin102
+  - Coin144
+  - Coin146
+  - Coin115
+  - Coin122
+  - Coin132
+  - Coin105
+  - Coin131
+  - Coin114
+  - Coin117
+  - Coin125
+  - Coin104
+  - Coin148
+  - Coin121
+  - Coin108
+  - Coin112
+  - Coin109
+  - Coin149
+  - Coin145
+  - Coin134
+  - Coin137
+  - Coin126
+  - Coin142
+  - Coin128
+  - Coin141
+  - Coin150
+  - Coin138
+  - Coin136
+  - Coin140
+  - Coin116
+  - Coin123
+  - Coin107
+  - Coin113
+  - Coin139
+  - Coin147
+  - Coin135
+  - Coin143
+  - Coin120
+  - Coin111
+  m_RenderDataMap: {}
+  m_Tag: Coin1of3_3_asset
+  m_IsVariant: 0

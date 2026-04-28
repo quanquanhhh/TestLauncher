@@ -1,0 +1,20 @@
+
+spine_icon4.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+challenge
+  rotate: false
+  xy: 2, 43
+  size: 197, 213
+  orig: 204, 231
+  offset: 5, 17
+  index: -1
+images/lizi726
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 47, 47
+  offset: 4, 4
+  index: -1

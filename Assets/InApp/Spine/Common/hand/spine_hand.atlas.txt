@@ -1,0 +1,20 @@
+
+spine_hand.png
+size: 398,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand
+  rotate: false
+  xy: 260, 119
+  size: 136, 139
+  orig: 137, 139
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 260, 260
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,48 @@
+
+spine_icon_vip2.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+avip
+  rotate: true
+  xy: 241, 8
+  size: 146, 60
+  orig: 146, 60
+  offset: 0, 0
+  index: -1
+avip_di
+  rotate: false
+  xy: 2, 232
+  size: 367, 143
+  orig: 367, 143
+  offset: 0, 0
+  index: -1
+avip_jb
+  rotate: true
+  xy: 2, 2
+  size: 228, 237
+  orig: 242, 250
+  offset: 7, 6
+  index: -1
+images/lizi726
+  rotate: false
+  xy: 307, 191
+  size: 39, 39
+  orig: 47, 47
+  offset: 4, 4
+  index: -1
+images/xinnn20
+  rotate: false
+  xy: 241, 156
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+t
+  rotate: true
+  xy: 303, 12
+  size: 142, 21
+  orig: 142, 21
+  offset: 0, 0
+  index: -1

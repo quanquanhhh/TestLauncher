@@ -1,0 +1,83 @@
+
+spine_xiaochu.png
+size: 272,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx_n
+  rotate: false
+  xy: 2, 12
+  size: 128, 126
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hb1
+  rotate: true
+  xy: 245, 164
+  size: 42, 24
+  orig: 45, 26
+  offset: 2, 1
+  index: -1
+hb2
+  rotate: false
+  xy: 50, 148
+  size: 38, 35
+  orig: 41, 37
+  offset: 1, 1
+  index: -1
+hb3
+  rotate: false
+  xy: 2, 158
+  size: 46, 25
+  orig: 49, 27
+  offset: 1, 1
+  index: -1
+hua1
+  rotate: true
+  xy: 129, 140
+  size: 43, 52
+  orig: 46, 57
+  offset: 0, 3
+  index: -1
+hua2
+  rotate: false
+  xy: 90, 148
+  size: 37, 35
+  orig: 39, 37
+  offset: 1, 1
+  index: -1
+lz_a
+  rotate: true
+  xy: 183, 132
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+lz_c
+  rotate: false
+  xy: 2, 189
+  size: 19, 17
+  orig: 22, 23
+  offset: 2, 3
+  index: -1
+lz_d
+  rotate: false
+  xy: 2, 189
+  size: 19, 17
+  orig: 24, 25
+  offset: 3, 4
+  index: -1
+lz_e
+  rotate: true
+  xy: 23, 185
+  size: 21, 220
+  orig: 128, 256
+  offset: 54, 19
+  index: -1
+xx
+  rotate: false
+  xy: 132, 2
+  size: 132, 128
+  orig: 132, 128
+  offset: 0, 0
+  index: -1

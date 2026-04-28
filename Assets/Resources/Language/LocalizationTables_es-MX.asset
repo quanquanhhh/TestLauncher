@@ -1,0 +1,461 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTables_es-MX
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-MX
+  m_SharedData: {fileID: 11400000, guid: fc88b2cac51a48b40a370ae203c61634, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 22047711232
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1944985100288
+    m_Localized: Nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1026694784049152
+    m_Localized: Eliminar anuncios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027754420428800
+    m_Localized: Eliminar anuncios obligatorios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028305954627584
+    m_Localized: Eliminar anuncios de banner inferiores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028531402661888
+    m_Localized: Eliminar anuncios intersticiales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1030462497972224
+    m_Localized: Suscribirse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069497182412800
+    m_Localized: Rueda de la fortuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069742196875264
+    m_Localized: "T\xEDtulo del desaf\xEDo diario"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077460555096064
+    m_Localized: Paquete de regalo por tiempo limitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079420305891328
+    m_Localized: Encuentros hermosos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080215373963264
+    m_Localized: Beneficios exclusivos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080641049681920
+    m_Localized: "Desaf\xEDo diario"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081228722003968
+    m_Localized: Regalo secreto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082224978255872
+    m_Localized: Regalo diario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082611160408064
+    m_Localized: VIP permanente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082880782852096
+    m_Localized: Show de talentos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084015266586624
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084481522196480
+    m_Localized: "Mi colecci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457103061737472
+    m_Localized: Todas las fotos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457326743969792
+    m_Localized: "\xA1Suscripci\xF3n de por vida y desbloquea todas las colecciones!
+      \xA1Cons\xEDguela ahora!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084627997745152
+    m_Localized: Monedas y diamantes gratis a diario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084741801795584
+    m_Localized: Recompensas de nivel dobles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084797233717248
+    m_Localized: "Descargas ilimitadas de im\xE1genes gratis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084861691781120
+    m_Localized: Juego ilimitado en niveles ocultos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084916700078080
+    m_Localized: Eliminar anuncios intersticiales y de banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084981548212224
+    m_Localized: Eliminar todo tipo de anuncios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095558525935616
+    m_Localized: "\xA1Obt\xE9n beneficios VIP ahora y disfruta de todas las ventajas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095903381610496
+    m_Localized: Suscribirse a VIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6176874374193152
+    m_Localized: Descargar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6537268078927872
+    m_Localized: Oferta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9365462528122880
+    m_Localized: Reclamar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9379714060083200
+    m_Localized: "Firma del t\xEDtulo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9380895448719360
+    m_Localized: Accesorios insuficientes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536659192602624
+    m_Localized: "\xC1lbum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537607273078784
+    m_Localized: "\xC1rabe (Arabia Saudita)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537611861647360
+    m_Localized: "\xC1rabe (Emiratos \xC1rabes)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537615590383616
+    m_Localized: Birmano (my)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537602755813376
+    m_Localized: Chino tradicional (zh-TW)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537356764078080
+    m_Localized: "Cont\xE1ctanos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536749818929152
+    m_Localized: Sacar {0} vez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537618719334400
+    m_Localized: "Holand\xE9s (nl)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538455126466560
+    m_Localized: "Ingl\xE9s (Canad\xE1) (en-CA)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537237314494464
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537426553102336
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537078769803264
+    m_Localized: Me gusta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536549377335296
+    m_Localized: Paquete por tiempo limitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535878020259840
+    m_Localized: "Suscripci\xF3n mensual"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538639453544448
+    m_Localized: "Ingl\xE9s (Filipinas) (en-PH)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538641697497088
+    m_Localized: "Ingl\xE9s (Singapur) (en-SG)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538657413554176
+    m_Localized: "Portugu\xE9s (Brasil) (pt-BR)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538658982223872
+    m_Localized: Ruso (ru)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538660605419520
+    m_Localized: "Espa\xF1ol (M\xE9xico) (es-MX)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538662241198080
+    m_Localized: "Tailand\xE9s (th)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538663944085504
+    m_Localized: Vietnamita (Vietnam) (vi-VN)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538643815620608
+    m_Localized: "Ingl\xE9s (Reino Unido) (en-GB)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538645573033984
+    m_Localized: "Ingl\xE9s (Estados Unidos) (en-US)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538647267532800
+    m_Localized: "Ingl\xE9s (en)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538648941060096
+    m_Localized: "Franc\xE9s (fr)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538650543284224
+    m_Localized: "Alem\xE1n (de)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538652200034304
+    m_Localized: Indonesio (id)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538653974224896
+    m_Localized: "Japon\xE9s (Jap\xF3n) (ja-JP)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538655622586368
+    m_Localized: Coreano (Corea del Sur) (ko-KR)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537515879194624
+    m_Localized: Apagado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537433029107712
+    m_Localized: Encendido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535961340108800
+    m_Localized: "Pago \xFAnico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535756616130560
+    m_Localized: "Pol\xEDtica de privacidad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537383213359104
+    m_Localized: "Pol\xEDtica de privacidad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536281382281216
+    m_Localized: Tiempo restante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537169891057664
+    m_Localized: Restablecer fondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537621605015552
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537597366132736
+    m_Localized: Restaurar compra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537147560583168
+    m_Localized: Establecer fondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536772392673280
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535809736990720
+    m_Localized: "T\xE9rminos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786229923307520
+    m_Localized: "Haz clic en la ficha de mahjong para colocarla en la cuadr\xEDcula
+      inferior"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786211518701568
+    m_Localized: "Gu\xEDa del objeto 3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786190408769536
+    m_Localized: "Gu\xEDa del objeto 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786153092046848
+    m_Localized: "Gu\xEDa del objeto 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786125455777792
+    m_Localized: "Haz clic para ir a configuraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786104568143872
+    m_Localized: Haz clic para volver al inicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785827370786816
+    m_Localized: Sin red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785786912530432
+    m_Localized: "Pa\xEDs prohibido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785734563422208
+    m_Localized: Espera un momento y vuelve a intentar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785711276646400
+    m_Localized: Diamantes insuficientes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785653542051840
+    m_Localized: Monedas insuficientes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785584029851648
+    m_Localized: Sin veces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785555793797120
+    m_Localized: Ya reclamado hoy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785497631383552
+    m_Localized: No se puede reclamar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785434955898880
+    m_Localized: "A\xFAn no es momento"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785387820310528
+    m_Localized: "Restauraci\xF3n de compra fallida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785347001344000
+    m_Localized: "Restauraci\xF3n de compras exitosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785305721004032
+    m_Localized: Compra fallida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785280056057856
+    m_Localized: Compra exitosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785243603361792
+    m_Localized: No hay suficientes fotos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777488029081600
+    m_Localized: "Re\xFAne 7 d\xEDas para abrir el gran premio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777322098221056
+    m_Localized: Cerrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777088785866752
+    m_Localized: "T\xEDtulo del descuento secreto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776793578168320
+    m_Localized: Descuento secreto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776458558136320
+    m_Localized: "T\xEDtulo del pase"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834737460109312
+    m_Localized: "Se eliminar\xE1n tres fichas de mahjong id\xE9nticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834747740348416
+    m_Localized: "\xA1Elimina todas las fichas de mahjong para ganar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834757135589376
+    m_Localized: "\xA1La victoria trae recompensas generosas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834768552484864
+    m_Localized: "\xA1Puedes conseguir m\xE1s fotos geniales y monedas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834800420806656
+    m_Localized: "\xA1Un nuevo evento ha comenzado! \xA1Echemos un vistazo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834816795369472
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834832196853760
+    m_Localized: Saltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838537814106112
+    m_Localized: "Haz clic aqu\xED para volver al vest\xEDbulo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838664515641344
+    m_Localized: "Haz clic aqu\xED para modificar la configuraci\xF3n del juego"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

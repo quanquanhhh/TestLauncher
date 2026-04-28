@@ -1,0 +1,20 @@
+
+spine_icon_ad2.png
+size: 224,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ad
+  rotate: false
+  xy: 2, 74
+  size: 154, 148
+  orig: 158, 152
+  offset: 2, 2
+  index: -1
+images/xinnn20
+  rotate: false
+  xy: 158, 148
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1

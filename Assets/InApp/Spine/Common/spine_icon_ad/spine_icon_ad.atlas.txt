@@ -1,0 +1,27 @@
+
+spine_icon_ad.png
+size: 168,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ad2
+  rotate: true
+  xy: 43, 15
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+ads_icon
+  rotate: false
+  xy: 2, 43
+  size: 118, 122
+  orig: 118, 124
+  offset: 0, 1
+  index: -1
+images/lizi726
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 47, 47
+  offset: 4, 4
+  index: -1

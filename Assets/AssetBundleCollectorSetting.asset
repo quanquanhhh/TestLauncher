@@ -1,0 +1,1523 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185f6993d5150494d98da50e26cb1c25, type: 3}
+  m_Name: AssetBundleCollectorSetting
+  m_EditorClassIdentifier: 
+  ShowPackageView: 0
+  ShowEditorAlias: 0
+  UniqueBundleName: 1
+  Packages:
+  - PackageName: Tile
+    PackageDesc: 
+    EnableAddressable: 1
+    SupportExtensionless: 1
+    LocationToLower: 0
+    IncludeAssetGUID: 0
+    AutoCollectShaders: 1
+    IgnoreRuleName: NormalIgnoreRule
+    Groups:
+    - GroupName: Config
+      GroupDesc: 
+      AssetTags: BuildIn
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InApp/Config
+        CollectorGUID: ee902060ed5d43948a92a4abf6c819a0
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: GameUI
+      GroupDesc: 
+      AssetTags: BuildIn
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InApp/Texture
+        CollectorGUID: 1d99563e9d63f9948b62f94fd15acc05
+        CollectorType: 0
+        AddressRuleName: AddressByFolderAndFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/InApp/Atlas
+        CollectorGUID: e6e45c6889405124192e93a2e4411b8a
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/InApp/Spine
+        CollectorGUID: c1dc11413f3b12844a3685d22c987728
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/InApp/Tile
+        CollectorGUID: 
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/InApp/UI
+        CollectorGUID: 7ffaf16640ed55849813f2144172662c
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/InApp/Animtor
+        CollectorGUID: af9c8b0f4e019e24094fb64b2114c8ce
+        CollectorType: 0
+        AddressRuleName: AddressByFolderAndFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: Audio
+      GroupDesc: 
+      AssetTags: BuildIn
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InApp/Audio
+        CollectorGUID: 1defa413cf7a0814ab05b1c451eb9b07
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: Coin1of3_1
+      GroupDesc: 
+      AssetTags: Coin1of3_1
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/1
+        CollectorGUID: 2cf8d6e185c9e20499215be43196be1b
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_1
+        UserData: 
+    - GroupName: Coin1of3_10
+      GroupDesc: 
+      AssetTags: Coin1of3_10
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/10
+        CollectorGUID: 1421b5d4ebefc134ab80bf48484c0012
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_10
+        UserData: 
+    - GroupName: Coin1of3_2
+      GroupDesc: 
+      AssetTags: Coin1of3_2
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/2
+        CollectorGUID: 3ffd87c2dfd08fa4692e15c3fb351e0a
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_2
+        UserData: 
+    - GroupName: Coin1of3_3
+      GroupDesc: 
+      AssetTags: Coin1of3_3
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/3
+        CollectorGUID: 4a68f8945ca1d964a836465c8ccce4c1
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_3
+        UserData: 
+    - GroupName: Coin1of3_4
+      GroupDesc: 
+      AssetTags: Coin1of3_4
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/4
+        CollectorGUID: 110b0b16ca7d7b342b28287c31af9cc0
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_4
+        UserData: 
+    - GroupName: Coin1of3_5
+      GroupDesc: 
+      AssetTags: Coin1of3_5
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/5
+        CollectorGUID: 483a8839428fdec4796639fde4fc9e44
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_5
+        UserData: 
+    - GroupName: Coin1of3_6
+      GroupDesc: 
+      AssetTags: Coin1of3_6
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/6
+        CollectorGUID: 7af03b7a67a0fe34380b0bc19bb8c0c7
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_6
+        UserData: 
+    - GroupName: Coin1of3_7
+      GroupDesc: 
+      AssetTags: Coin1of3_7
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/7
+        CollectorGUID: ac013d6c69b6dae4cb57488b7a11402c
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_7
+        UserData: 
+    - GroupName: Coin1of3_8
+      GroupDesc: 
+      AssetTags: Coin1of3_8
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/8
+        CollectorGUID: 005e797a948e1f94d8309a1168f6e174
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_8
+        UserData: 
+    - GroupName: Coin1of3_9
+      GroupDesc: 
+      AssetTags: Coin1of3_9
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Coin1of3/9
+        CollectorGUID: ddf59c5b72761f549b685aaade43de29
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Coin1of3_9
+        UserData: 
+    - GroupName: Free1of3_1
+      GroupDesc: 
+      AssetTags: Free1of3_1
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/1
+        CollectorGUID: fd012b127b62f1243aeabc399fd6da86
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_1
+        UserData: 
+    - GroupName: Free1of3_10
+      GroupDesc: 
+      AssetTags: Free1of3_10
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/10
+        CollectorGUID: b222d69ce2d1ef845b57a6e8584cb221
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_10
+        UserData: 
+    - GroupName: Free1of3_2
+      GroupDesc: 
+      AssetTags: Free1of3_2
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/2
+        CollectorGUID: bc991befacc6bc845a6f86cdf05b625a
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_2
+        UserData: 
+    - GroupName: Free1of3_3
+      GroupDesc: 
+      AssetTags: Free1of3_3
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/3
+        CollectorGUID: 57d4aab2f43a3bf49901ce8e0f3cf561
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_3
+        UserData: 
+    - GroupName: Free1of3_4
+      GroupDesc: 
+      AssetTags: Free1of3_4
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/4
+        CollectorGUID: d85fe62462f279349a828ccab677ff2b
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_4
+        UserData: 
+    - GroupName: Free1of3_5
+      GroupDesc: 
+      AssetTags: Free1of3_5
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/5
+        CollectorGUID: f4d3e8684e7b9ff45a1a43c3a5d51672
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_5
+        UserData: 
+    - GroupName: Free1of3_6
+      GroupDesc: 
+      AssetTags: Free1of3_6
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/6
+        CollectorGUID: 7ec494d363663db45a1a6f573ccfc245
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_6
+        UserData: 
+    - GroupName: Free1of3_7
+      GroupDesc: 
+      AssetTags: Free1of3_7
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/7
+        CollectorGUID: 094829237c3cbcc48b3712d85e278e48
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_7
+        UserData: 
+    - GroupName: Free1of3_8
+      GroupDesc: 
+      AssetTags: Free1of3_8
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/8
+        CollectorGUID: 70c03314b081d1f4e913af5e8e58b40e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_8
+        UserData: 
+    - GroupName: Free1of3_9
+      GroupDesc: 
+      AssetTags: Free1of3_9
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Free1of3/9
+        CollectorGUID: 0bcb1afab35d28d4487e2d8092a83f22
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Free1of3_9
+        UserData: 
+    - GroupName: Sign
+      GroupDesc: 
+      AssetTags: Sign
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Sign
+        CollectorGUID: 292c967cce11e60419ff88930a5e9f14
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Sign
+        UserData: 
+    - GroupName: Store
+      GroupDesc: 
+      AssetTags: Store
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Store
+        CollectorGUID: b1e79612c9ef44d4182e9485ae846e47
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Store
+        UserData: 
+    - GroupName: VIP125
+      GroupDesc: 
+      AssetTags: VIP125
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/VIP125
+        CollectorGUID: bfa3d18544370ec41874b5dc0bf2c6f6
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: VIP125
+        UserData: 
+    - GroupName: Zuan1of3_1
+      GroupDesc: 
+      AssetTags: Zuan1of3_1
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/1
+        CollectorGUID: 77148263d38ae0a43bb93e56e27091c5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_1
+        UserData: 
+    - GroupName: Zuan1of3_10
+      GroupDesc: 
+      AssetTags: Zuan1of3_10
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/10
+        CollectorGUID: cbf22817d6dd7f64191f92c9c13de915
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_10
+        UserData: 
+    - GroupName: Zuan1of3_2
+      GroupDesc: 
+      AssetTags: Zuan1of3_2
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/2
+        CollectorGUID: d155a6d1b5e68ec428510753b2cb5e14
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_2
+        UserData: 
+    - GroupName: Zuan1of3_3
+      GroupDesc: 
+      AssetTags: Zuan1of3_3
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/3
+        CollectorGUID: 639dad54c6115d94caa7421bc41777f8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_3
+        UserData: 
+    - GroupName: Zuan1of3_4
+      GroupDesc: 
+      AssetTags: Zuan1of3_4
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/4
+        CollectorGUID: 96fa45ba5b2a11a42aad00e0630f9d65
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_4
+        UserData: 
+    - GroupName: Zuan1of3_5
+      GroupDesc: 
+      AssetTags: Zuan1of3_5
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/5
+        CollectorGUID: 844bc8661bd088949bc46ee9f82a13f4
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_5
+        UserData: 
+    - GroupName: Zuan1of3_6
+      GroupDesc: 
+      AssetTags: Zuan1of3_6
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/6
+        CollectorGUID: 0b6902475cc83f348ae853326c07059a
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_6
+        UserData: 
+    - GroupName: Zuan1of3_7
+      GroupDesc: 
+      AssetTags: Zuan1of3_7
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/7
+        CollectorGUID: 1b51974d043663b419f4fbed16b33682
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_7
+        UserData: 
+    - GroupName: Zuan1of3_8
+      GroupDesc: 
+      AssetTags: Zuan1of3_8
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/8
+        CollectorGUID: 871718c1421600a43a211c5454217650
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_8
+        UserData: 
+    - GroupName: Zuan1of3_9
+      GroupDesc: 
+      AssetTags: Zuan1of3_9
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Zuan1of3/9
+        CollectorGUID: 850cc704e568e7648a56387de9dc0b32
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Zuan1of3_9
+        UserData: 
+    - GroupName: challenge
+      GroupDesc: 
+      AssetTags: challenge
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/challenge
+        CollectorGUID: cde423a5b5c3b4945b2e32fdf4ca34e2
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: challenge
+        UserData: 
+    - GroupName: limitedtimegift_A
+      GroupDesc: 
+      AssetTags: limitedtimegift_A
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/limitedtimegift/A
+        CollectorGUID: 5713b4f8b6e72bf418705483243c0d05
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: limitedtimegift_A
+        UserData: 
+    - GroupName: limitedtimegift_B
+      GroupDesc: 
+      AssetTags: limitedtimegift_B
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/limitedtimegift/B
+        CollectorGUID: e300807d605223b4d8c00ecb1040cc2c
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: limitedtimegift_B
+        UserData: 
+    - GroupName: limitedtimegift_C
+      GroupDesc: 
+      AssetTags: limitedtimegift_C
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/limitedtimegift/C
+        CollectorGUID: 4e2bc5ab01bf20942b60b04491a736ea
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: limitedtimegift_C
+        UserData: 
+    - GroupName: limitedtimegift_D
+      GroupDesc: 
+      AssetTags: limitedtimegift_D
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/limitedtimegift/D
+        CollectorGUID: 848471b6b25b2bc4680df7f1354dc87d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: limitedtimegift_D
+        UserData: 
+    - GroupName: wheel
+      GroupDesc: 
+      AssetTags: wheel
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/wheel
+        CollectorGUID: 99cacaa20d90b2b43810559479f82e84
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: wheel
+        UserData: 
+    - GroupName: xuanxiu
+      GroupDesc: 
+      AssetTags: xuanxiu
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/xuanxiu
+        CollectorGUID: 70405ef589bef004a988d8a227545205
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: xuanxiu
+        UserData: 
+    - GroupName: pass
+      GroupDesc: 
+      AssetTags: pass
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/pass
+        CollectorGUID: 468d61f65cf270f41bf5780cc96f4388
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: pass
+        UserData: 
+    - GroupName: Secretgift_1
+      GroupDesc: 
+      AssetTags: Secretgift_1
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/1
+        CollectorGUID: bf31369c2f200d2498f73275a69d2aac
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_1
+        UserData: 
+    - GroupName: Secretgift_10
+      GroupDesc: 
+      AssetTags: Secretgift_10
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/10
+        CollectorGUID: f309d0f4487028b4f916ef9e7a40ea96
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_10
+        UserData: 
+    - GroupName: Secretgift_11
+      GroupDesc: 
+      AssetTags: Secretgift_11
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/11
+        CollectorGUID: ed5ce3c497ebeb84ca32ecc54b0c7db5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_11
+        UserData: 
+    - GroupName: Secretgift_12
+      GroupDesc: 
+      AssetTags: Secretgift_12
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/12
+        CollectorGUID: 64640d884e7497c428cb376af2102ae0
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_12
+        UserData: 
+    - GroupName: Secretgift_13
+      GroupDesc: 
+      AssetTags: Secretgift_13
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/13
+        CollectorGUID: cd4e540fda40cd948a1de32f1916b0a4
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_13
+        UserData: 
+    - GroupName: Secretgift_14
+      GroupDesc: 
+      AssetTags: Secretgift_14
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/14
+        CollectorGUID: 6794fa371719d6745b9d88b86155757f
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_14
+        UserData: 
+    - GroupName: Secretgift_15
+      GroupDesc: 
+      AssetTags: Secretgift_15
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/15
+        CollectorGUID: 8e0f0aaf394f4554a81a075fe44868e2
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_15
+        UserData: 
+    - GroupName: Secretgift_16
+      GroupDesc: 
+      AssetTags: Secretgift_16
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/16
+        CollectorGUID: df2e0c20e5b838448bbeb7acf33eeb28
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_16
+        UserData: 
+    - GroupName: Secretgift_17
+      GroupDesc: 
+      AssetTags: Secretgift_17
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/17
+        CollectorGUID: ab22ee8933ae6d941bb59c7c8d01120e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_17
+        UserData: 
+    - GroupName: Secretgift_18
+      GroupDesc: 
+      AssetTags: Secretgift_18
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/18
+        CollectorGUID: f06b0c2d0a9c1154fa9f4bd24456dae8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_18
+        UserData: 
+    - GroupName: Secretgift_19
+      GroupDesc: 
+      AssetTags: Secretgift_19
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/19
+        CollectorGUID: 067be7bd9fc5e7a448d1b1b005843c19
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_19
+        UserData: 
+    - GroupName: Secretgift_2
+      GroupDesc: 
+      AssetTags: Secretgift_2
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/2
+        CollectorGUID: b35e8db37430c2d4f967e648858b34c8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_2
+        UserData: 
+    - GroupName: Secretgift_20
+      GroupDesc: 
+      AssetTags: Secretgift_20
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/20
+        CollectorGUID: c5554644c802b9c4fae8712157bf4712
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_20
+        UserData: 
+    - GroupName: Secretgift_21
+      GroupDesc: 
+      AssetTags: Secretgift_21
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/21
+        CollectorGUID: 666d6d1452bc7ec44ac0d5c7562bf2f0
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_21
+        UserData: 
+    - GroupName: Secretgift_22
+      GroupDesc: 
+      AssetTags: Secretgift_22
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/22
+        CollectorGUID: 856e4af9e4ee45a4ea03b31fc5f53dab
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_22
+        UserData: 
+    - GroupName: Secretgift_23
+      GroupDesc: 
+      AssetTags: Secretgift_23
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/23
+        CollectorGUID: faf637000a51b3d43aa7bf0b432337d5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_23
+        UserData: 
+    - GroupName: Secretgift_24
+      GroupDesc: 
+      AssetTags: Secretgift_24
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/24
+        CollectorGUID: 6de932f2f6c25e14b847982efc052362
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_24
+        UserData: 
+    - GroupName: Secretgift_25
+      GroupDesc: 
+      AssetTags: Secretgift_25
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/25
+        CollectorGUID: 4ed3f109eea2aec4fb14cdd2c295551c
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_25
+        UserData: 
+    - GroupName: Secretgift_26
+      GroupDesc: 
+      AssetTags: Secretgift_26
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/26
+        CollectorGUID: c7742eb37652e644d897a4efdeff2aa7
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_26
+        UserData: 
+    - GroupName: Secretgift_27
+      GroupDesc: 
+      AssetTags: Secretgift_27
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/27
+        CollectorGUID: 580e190d1f8bf654480fd243f0910cdd
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_27
+        UserData: 
+    - GroupName: Secretgift_28
+      GroupDesc: 
+      AssetTags: Secretgift_28
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/28
+        CollectorGUID: f17adeea60803f4478388dc23d5067d6
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_28
+        UserData: 
+    - GroupName: Secretgift_29
+      GroupDesc: 
+      AssetTags: Secretgift_29
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/29
+        CollectorGUID: ef08c232f466d674f81937dffc5c3328
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_29
+        UserData: 
+    - GroupName: Secretgift_3
+      GroupDesc: 
+      AssetTags: Secretgift_3
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/3
+        CollectorGUID: 8edbccddf540a1b44b04e6c2e047f2d9
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_3
+        UserData: 
+    - GroupName: Secretgift_30
+      GroupDesc: 
+      AssetTags: Secretgift_30
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/30
+        CollectorGUID: aeb7ef1a8871fd846b4ba7f08d6134e6
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_30
+        UserData: 
+    - GroupName: Secretgift_31
+      GroupDesc: 
+      AssetTags: Secretgift_31
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/31
+        CollectorGUID: 9ecaf71c03f24b14c870b69d0f5e94fe
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_31
+        UserData: 
+    - GroupName: Secretgift_32
+      GroupDesc: 
+      AssetTags: Secretgift_32
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/32
+        CollectorGUID: 6c7c2533beb99a14c938f1c65d3f526d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_32
+        UserData: 
+    - GroupName: Secretgift_33
+      GroupDesc: 
+      AssetTags: Secretgift_33
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/33
+        CollectorGUID: a8b5478238729cc4eba05ad64f34116e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_33
+        UserData: 
+    - GroupName: Secretgift_34
+      GroupDesc: 
+      AssetTags: Secretgift_34
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/34
+        CollectorGUID: e80b2619c6042284a8fee42f9612fb34
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_34
+        UserData: 
+    - GroupName: Secretgift_4
+      GroupDesc: 
+      AssetTags: Secretgift_4
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/4
+        CollectorGUID: b0acfd8facfd530478ada4bf5df2c53c
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_4
+        UserData: 
+    - GroupName: Secretgift_5
+      GroupDesc: 
+      AssetTags: Secretgift_5
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/5
+        CollectorGUID: de54c0d1d717b8243909d819ea7da1e9
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_5
+        UserData: 
+    - GroupName: Secretgift_6
+      GroupDesc: 
+      AssetTags: Secretgift_6
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/6
+        CollectorGUID: e195339c4d3beb7479773a67f7b948ae
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_6
+        UserData: 
+    - GroupName: Secretgift_7
+      GroupDesc: 
+      AssetTags: Secretgift_7
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/7
+        CollectorGUID: fe6cdf91924d0d74d87ae28cf02c570c
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_7
+        UserData: 
+    - GroupName: Secretgift_8
+      GroupDesc: 
+      AssetTags: Secretgift_8
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/8
+        CollectorGUID: 9f1472e767dd17546b212c571f2e1ac9
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_8
+        UserData: 
+    - GroupName: Secretgift_9
+      GroupDesc: 
+      AssetTags: Secretgift_9
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/Secretgift/9
+        CollectorGUID: 95cf8baa1d7162042a77c2609eb0118d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: Secretgift_9
+        UserData: 
+    - GroupName: A0_1
+      GroupDesc: 
+      AssetTags: A0_1
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A0/1
+        CollectorGUID: d02d63c086149904e80a4e4c10b90cf8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A0_1
+        UserData: 
+    - GroupName: A1_1
+      GroupDesc: 
+      AssetTags: A1_1
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A1/1
+        CollectorGUID: bfe921102b738ef41869352bbc0b9d82
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A1_1
+        UserData: 
+    - GroupName: A10
+      GroupDesc: 
+      AssetTags: A10
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A10
+        CollectorGUID: 32ba4775485ca5344bcfcec403dbbc79
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A10
+        UserData: 
+    - GroupName: A11
+      GroupDesc: 
+      AssetTags: A11
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A11
+        CollectorGUID: 86c96f6274f7e9e44ba801acaaea827e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A11
+        UserData: 
+    - GroupName: A2_1
+      GroupDesc: 
+      AssetTags: A2_1
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A2/1
+        CollectorGUID: 9cb009ff717ea004a9f98b90e268e38f
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A2_1
+        UserData: 
+    - GroupName: A3
+      GroupDesc: 
+      AssetTags: A3
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A3
+        CollectorGUID: 1a8452d24d66749489a7c0af7da8894e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A3
+        UserData: 
+    - GroupName: A4
+      GroupDesc: 
+      AssetTags: A4
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A4
+        CollectorGUID: eec9ab0653d94de42872e4812aa1523b
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A4
+        UserData: 
+    - GroupName: A5
+      GroupDesc: 
+      AssetTags: A5
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A5
+        CollectorGUID: 629fc90b2a77c7242afac96cb66d8e64
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A5
+        UserData: 
+    - GroupName: A6
+      GroupDesc: 
+      AssetTags: A6
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A6
+        CollectorGUID: 10baa05360b220e4980a9700fb8c9bf3
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A6
+        UserData: 
+    - GroupName: A7
+      GroupDesc: 
+      AssetTags: A7
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A7
+        CollectorGUID: 29690ca090d9d584ea307e2de2cce177
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A7
+        UserData: 
+    - GroupName: A8
+      GroupDesc: 
+      AssetTags: A8
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A8
+        CollectorGUID: 8a73c8e60ddcb6b4cb776250256aaa56
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A8
+        UserData: 
+    - GroupName: A9_1
+      GroupDesc: 
+      AssetTags: A9_1
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/1
+        CollectorGUID: 4b4f2e016a684c640968995e9b70856e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_1
+        UserData: 
+    - GroupName: A9_10
+      GroupDesc: 
+      AssetTags: A9_10
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/10
+        CollectorGUID: a142d1c575b145c468bb8ef7af5e4dd5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_10
+        UserData: 
+    - GroupName: A9_11
+      GroupDesc: 
+      AssetTags: A9_11
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/11
+        CollectorGUID: 6e39e6070a727e745aee07c792df397b
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_11
+        UserData: 
+    - GroupName: A9_12
+      GroupDesc: 
+      AssetTags: A9_12
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/12
+        CollectorGUID: 938ff0b409ff420439566ccea3111746
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_12
+        UserData: 
+    - GroupName: A9_13
+      GroupDesc: 
+      AssetTags: A9_13
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/13
+        CollectorGUID: 76ecd604290fb73479e7f9e553766305
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_13
+        UserData: 
+    - GroupName: A9_14
+      GroupDesc: 
+      AssetTags: A9_14
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/14
+        CollectorGUID: e90fcd779e2cc014e9dce274a1e0337e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_14
+        UserData: 
+    - GroupName: A9_15
+      GroupDesc: 
+      AssetTags: A9_15
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/15
+        CollectorGUID: 9e3ae31b4f53da741ae7b2d4ecf8f5d5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_15
+        UserData: 
+    - GroupName: A9_16
+      GroupDesc: 
+      AssetTags: A9_16
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/16
+        CollectorGUID: 0fd65db96f48d9d468e38cabb1e54e1a
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_16
+        UserData: 
+    - GroupName: A9_17
+      GroupDesc: 
+      AssetTags: A9_17
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/17
+        CollectorGUID: 1bc6f444c3e1f2a4c9e1f6637d7b523d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_17
+        UserData: 
+    - GroupName: A9_18
+      GroupDesc: 
+      AssetTags: A9_18
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/18
+        CollectorGUID: 103eeafa60144b84e8f5121f836a30ec
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_18
+        UserData: 
+    - GroupName: A9_19
+      GroupDesc: 
+      AssetTags: A9_19
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/19
+        CollectorGUID: 5d9e15bf2d99eb842a3b08bb86428e78
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_19
+        UserData: 
+    - GroupName: A9_2
+      GroupDesc: 
+      AssetTags: A9_2
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/2
+        CollectorGUID: 3e98982e991bb4245a747d5444f6b641
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_2
+        UserData: 
+    - GroupName: A9_20
+      GroupDesc: 
+      AssetTags: A9_20
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/20
+        CollectorGUID: d0c6d220b24db5e42a86ad8a237f851d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_20
+        UserData: 
+    - GroupName: A9_21
+      GroupDesc: 
+      AssetTags: A9_21
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/21
+        CollectorGUID: fd444df9d9858d146b5b7776921a4658
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_21
+        UserData: 
+    - GroupName: A9_22
+      GroupDesc: 
+      AssetTags: A9_22
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/22
+        CollectorGUID: 685d04bd9098a924a9eeda079ff5f3c3
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_22
+        UserData: 
+    - GroupName: A9_23
+      GroupDesc: 
+      AssetTags: A9_23
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/23
+        CollectorGUID: b2ec8abe77c35164aa73b555e6b211da
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_23
+        UserData: 
+    - GroupName: A9_3
+      GroupDesc: 
+      AssetTags: A9_3
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/3
+        CollectorGUID: 991604d824cb81c47b7798c430f78f05
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_3
+        UserData: 
+    - GroupName: A9_4
+      GroupDesc: 
+      AssetTags: A9_4
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/4
+        CollectorGUID: 1394afe354d224745b0b35c3db20ccb0
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_4
+        UserData: 
+    - GroupName: A9_5
+      GroupDesc: 
+      AssetTags: A9_5
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/5
+        CollectorGUID: fd56e6934a97b6c4a9726b4a8331acde
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_5
+        UserData: 
+    - GroupName: A9_6
+      GroupDesc: 
+      AssetTags: A9_6
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/6
+        CollectorGUID: 1e5b095bc208dc44187e1a24de4b7651
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_6
+        UserData: 
+    - GroupName: A9_7
+      GroupDesc: 
+      AssetTags: A9_7
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/7
+        CollectorGUID: 146ac4eadf6119f48930f9fd0d4d007e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_7
+        UserData: 
+    - GroupName: A9_8
+      GroupDesc: 
+      AssetTags: A9_8
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/8
+        CollectorGUID: f68a7650c01914048b9a1862c79cc003
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_8
+        UserData: 
+    - GroupName: A9_9
+      GroupDesc: 
+      AssetTags: A9_9
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/InRemote/A9/9
+        CollectorGUID: 90194ff5c1eadc3438fbfa51f935fd94
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: A9_9
+        UserData: 

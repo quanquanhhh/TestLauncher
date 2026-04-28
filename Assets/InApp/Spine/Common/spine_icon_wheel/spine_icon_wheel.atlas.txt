@@ -1,0 +1,27 @@
+
+spine_icon_wheel.png
+size: 184,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lizi726
+  rotate: false
+  xy: 132, 70
+  size: 39, 39
+  orig: 47, 47
+  offset: 4, 4
+  index: -1
+wheel
+  rotate: true
+  xy: 2, 2
+  size: 107, 128
+  orig: 107, 128
+  offset: 0, 0
+  index: -1
+wheel2
+  rotate: false
+  xy: 2, 111
+  size: 175, 70
+  orig: 175, 70
+  offset: 0, 0
+  index: -1

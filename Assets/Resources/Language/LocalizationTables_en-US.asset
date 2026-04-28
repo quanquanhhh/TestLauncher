@@ -1,0 +1,459 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTables_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: fc88b2cac51a48b40a370ae203c61634, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 22047711232
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1944985100288
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1026694784049152
+    m_Localized: Remove ADS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027754420428800
+    m_Localized: Remove obligatory ads.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028305954627584
+    m_Localized: Remove bottom banner ads.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028531402661888
+    m_Localized: Remove interstitial ads.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1030462497972224
+    m_Localized: Subscribe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069497182412800
+    m_Localized: Lucky Wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069742196875264
+    m_Localized: Daily Challenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077460555096064
+    m_Localized: Limited-time Gift Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079420305891328
+    m_Localized: Beauty Encounters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080215373963264
+    m_Localized: Exclusive benefits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080641049681920
+    m_Localized: Daily Challenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081228722003968
+    m_Localized: Secret Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082224978255872
+    m_Localized: Daily Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082611160408064
+    m_Localized: Permanent VIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082880782852096
+    m_Localized: Talent Show
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084015266586624
+    m_Localized: Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084481522196480
+    m_Localized: My Collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457103061737472
+    m_Localized: All Pictures
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457326743969792
+    m_Localized: Lifetime subscription and unlock all collections, get it now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084627997745152
+    m_Localized: Daily freecoins and diamonds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084741801795584
+    m_Localized: Double level rewards.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084797233717248
+    m_Localized: Free unlimited picture downloads.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084861691781120
+    m_Localized: Unlimited play for hidden levels.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084916700078080
+    m_Localized: Remove interstitial and banner ads.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084981548212224
+    m_Localized: Remove all types of ads.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095558525935616
+    m_Localized: Get VIP benefits now and enjoy all perks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095903381610496
+    m_Localized: Subscribe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6176874374193152
+    m_Localized: Download
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6537268078927872
+    m_Localized: Sale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9365462528122880
+    m_Localized: Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9379714060083200
+    m_Localized: Title Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9380895448719360
+    m_Localized: No Enough Prop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536659192602624
+    m_Localized: Album
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537607273078784
+    m_Localized: Arabic (Saudi Arabia) (ar-SA)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537611861647360
+    m_Localized: Arabic (United Arab Emirates) (ar-AE)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537615590383616
+    m_Localized: Burmese (my)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537602755813376
+    m_Localized: Chinese (Traditional) (zh-TW)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537356764078080
+    m_Localized: Connect Us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536749818929152
+    m_Localized: Draw {0} Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537618719334400
+    m_Localized: Dutch (nl)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538455126466560
+    m_Localized: English (Canada) (en-CA)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537237314494464
+    m_Localized: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537426553102336
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537078769803264
+    m_Localized: Like
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536549377335296
+    m_Localized: Limited Time Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535878020259840
+    m_Localized: Monthly Subscription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538639453544448
+    m_Localized: English (Philippines) (en-PH)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538641697497088
+    m_Localized: English (Singapore) (en-SG)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538657413554176
+    m_Localized: Portuguese (Brazil) (pt-BR)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538658982223872
+    m_Localized: Russian (ru)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538660605419520
+    m_Localized: Spanish (Mexico) (es-MX)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538662241198080
+    m_Localized: Thai (th)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538663944085504
+    m_Localized: Vietnamese (Vietnam) (vi-VN)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538643815620608
+    m_Localized: English (United Kingdom) (en-GB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538645573033984
+    m_Localized: English (United States) (en-US)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538647267532800
+    m_Localized: English (en)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538648941060096
+    m_Localized: French (fr)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538650543284224
+    m_Localized: German (de)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538652200034304
+    m_Localized: Indonesian (id)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538653974224896
+    m_Localized: Japanese (Japan) (ja-JP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538655622586368
+    m_Localized: Korean (South Korea) (ko-KR)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537515879194624
+    m_Localized: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537433029107712
+    m_Localized: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535961340108800
+    m_Localized: One Time Payment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535756616130560
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537383213359104
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536281382281216
+    m_Localized: Remaining Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537169891057664
+    m_Localized: Reset Background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537621605015552
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537597366132736
+    m_Localized: Restore Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537147560583168
+    m_Localized: Set Background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536772392673280
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535809736990720
+    m_Localized: Term
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786229923307520
+    m_Localized: Click on the mahjong tile to place it in the grid at the bottom.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786211518701568
+    m_Localized: Prop 3 Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786190408769536
+    m_Localized: Prop 2 Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786153092046848
+    m_Localized: Prop 1 Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786125455777792
+    m_Localized: Click To Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786104568143872
+    m_Localized: Click To Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785827370786816
+    m_Localized: No Network
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785786912530432
+    m_Localized: Ban Country
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785734563422208
+    m_Localized: Wait Time Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785711276646400
+    m_Localized: No Enough Diamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785653542051840
+    m_Localized: No Enough Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785584029851648
+    m_Localized: No Times
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785555793797120
+    m_Localized: Today has Claimed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785497631383552
+    m_Localized: Cant Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785434955898880
+    m_Localized: Not Time Yet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785387820310528
+    m_Localized: Restore Purchase Failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785347001344000
+    m_Localized: Restore Purchases Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785305721004032
+    m_Localized: Purchase Failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785280056057856
+    m_Localized: Purchase Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785243603361792
+    m_Localized: No Enough Photos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777488029081600
+    m_Localized: Collect 7 days to open the grand prize.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777322098221056
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777088785866752
+    m_Localized: Secret Discount Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776793578168320
+    m_Localized: Secret Discount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776458558136320
+    m_Localized: Pass Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834737460109312
+    m_Localized: Three identical mahjong tiles will be eliminated.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834747740348416
+    m_Localized: Clear all mahjong tiles to win!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834757135589376
+    m_Localized: Victory brings generous rewards!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834768552484864
+    m_Localized: You can get more cool pictures and coins!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834800420806656
+    m_Localized: A new event has started! Let's take a look!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834816795369472
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834832196853760
+    m_Localized: skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838537814106112
+    m_Localized: Click here to return to the lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838664515641344
+    m_Localized: Click here to modify game settings
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

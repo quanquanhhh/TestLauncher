@@ -1,0 +1,20 @@
+
+spine_logo_jdt.png
+size: 170,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/NewYear_XueHua_01
+  rotate: false
+  xy: 143, 103
+  size: 25, 26
+  orig: 32, 32
+  offset: 3, 3
+  index: -1
+images/mj2
+  rotate: true
+  xy: 2, 2
+  size: 127, 139
+  orig: 130, 141
+  offset: 2, 1
+  index: -1

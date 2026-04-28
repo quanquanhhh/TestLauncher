@@ -1,0 +1,20 @@
+
+spine_dianji.png
+size: 56,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 2, 2
+  size: 27, 26
+  orig: 31, 30
+  offset: 2, 2
+  index: -1
+dian2
+  rotate: false
+  xy: 31, 5
+  size: 23, 23
+  orig: 27, 28
+  offset: 2, 2
+  index: -1

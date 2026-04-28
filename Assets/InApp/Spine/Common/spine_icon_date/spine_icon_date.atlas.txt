@@ -1,0 +1,20 @@
+
+spine_icon_date.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daily
+  rotate: false
+  xy: 2, 70
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+images/xinnn20
+  rotate: false
+  xy: 87, 77
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1

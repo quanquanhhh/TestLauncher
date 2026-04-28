@@ -1,0 +1,27 @@
+
+spine_shop_coin.png
+size: 532,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 270, 212
+  orig: 279, 222
+  offset: 4, 5
+  index: -1
+images/lizi726
+  rotate: false
+  xy: 274, 175
+  size: 39, 39
+  orig: 47, 47
+  offset: 4, 4
+  index: -1
+light1
+  rotate: false
+  xy: 2, 216
+  size: 311, 313
+  orig: 311, 313
+  offset: 0, 0
+  index: -1

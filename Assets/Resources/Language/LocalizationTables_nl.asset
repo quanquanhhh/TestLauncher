@@ -1,0 +1,459 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTables_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: fc88b2cac51a48b40a370ae203c61634, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 22047711232
+    m_Localized: Spelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1944985100288
+    m_Localized: Niveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1026694784049152
+    m_Localized: Advertenties verwijderen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027754420428800
+    m_Localized: Verwijder verplichte advertenties
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028305954627584
+    m_Localized: Verwijder banneradvertenties onderaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028531402661888
+    m_Localized: Verwijder interstitial advertenties
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1030462497972224
+    m_Localized: Abonneren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069497182412800
+    m_Localized: Geluksrad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069742196875264
+    m_Localized: Dagelijkse uitdaging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077460555096064
+    m_Localized: Tijdelijke cadeaupakket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079420305891328
+    m_Localized: Mooie ontmoetingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080215373963264
+    m_Localized: Exclusieve voordelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080641049681920
+    m_Localized: Dagelijkse uitdaging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081228722003968
+    m_Localized: Geheim cadeau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082224978255872
+    m_Localized: Dagelijks cadeau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082611160408064
+    m_Localized: Permanente VIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1082880782852096
+    m_Localized: Talentenjacht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084015266586624
+    m_Localized: Winkel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084481522196480
+    m_Localized: Mijn verzameling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457103061737472
+    m_Localized: Alle afbeeldingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457326743969792
+    m_Localized: Levenslang abonnement en ontgrendel alle collecties! Nu verkrijgbaar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084627997745152
+    m_Localized: Dagelijkse gratis munten en diamanten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084741801795584
+    m_Localized: Dubbele niveau-beloningen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084797233717248
+    m_Localized: Gratis onbeperkt afbeeldingen downloaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084861691781120
+    m_Localized: Onbeperkt spelen van verborgen niveaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084916700078080
+    m_Localized: Verwijder interstitial- en banneradvertenties
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6084981548212224
+    m_Localized: Verwijder alle soorten advertenties
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095558525935616
+    m_Localized: Ontvang nu VIP-voordelen en geniet van alle extra's!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6095903381610496
+    m_Localized: Abonneer op VIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6176874374193152
+    m_Localized: Downloaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6537268078927872
+    m_Localized: Uitverkoop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9365462528122880
+    m_Localized: Claimen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9379714060083200
+    m_Localized: Titel ondertekening
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9380895448719360
+    m_Localized: Onvoldoende rekwisieten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536659192602624
+    m_Localized: Album
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537607273078784
+    m_Localized: "Arabisch (Saoedi-Arabi\xEB)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537611861647360
+    m_Localized: Arabisch (VAE)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537615590383616
+    m_Localized: Birmaans (my)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537602755813376
+    m_Localized: Traditioneel Chinees (zh-TW)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537356764078080
+    m_Localized: Contacteer ons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536749818929152
+    m_Localized: '{0} keer trekken'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537618719334400
+    m_Localized: Nederlands (nl)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538455126466560
+    m_Localized: Engels (Canada) (en-CA)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537237314494464
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537426553102336
+    m_Localized: Taal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537078769803264
+    m_Localized: Leuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536549377335296
+    m_Localized: Tijdelijke bundel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535878020259840
+    m_Localized: Maandelijks abonnement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538639453544448
+    m_Localized: Engels (Filipijnen) (en-PH)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538641697497088
+    m_Localized: Engels (Singapore) (en-SG)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538657413554176
+    m_Localized: "Portugees (Brazili\xEB) (pt-BR)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538658982223872
+    m_Localized: Russisch (ru)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538660605419520
+    m_Localized: Spaans (Mexico) (es-MX)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538662241198080
+    m_Localized: Thais (th)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538663944085504
+    m_Localized: Vietnamees (Vietnam) (vi-VN)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538643815620608
+    m_Localized: Engels (VK) (en-GB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538645573033984
+    m_Localized: Engels (VS) (en-US)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538647267532800
+    m_Localized: Engels (en)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538648941060096
+    m_Localized: Frans (fr)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538650543284224
+    m_Localized: Duits (de)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538652200034304
+    m_Localized: Indonesisch (id)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538653974224896
+    m_Localized: Japans (Japan) (ja-JP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14538655622586368
+    m_Localized: Koreaans (Zuid-Korea) (ko-KR)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537515879194624
+    m_Localized: Uit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537433029107712
+    m_Localized: Aan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535961340108800
+    m_Localized: Eenmalige betaling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535756616130560
+    m_Localized: Privacybeleid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537383213359104
+    m_Localized: Privacybeleid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536281382281216
+    m_Localized: Resterende tijd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537169891057664
+    m_Localized: Achtergrond resetten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537621605015552
+    m_Localized: Herstarten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537597366132736
+    m_Localized: Aankoop herstellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537147560583168
+    m_Localized: Achtergrond instellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14536772392673280
+    m_Localized: Winkel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14535809736990720
+    m_Localized: Voorwaarden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786229923307520
+    m_Localized: Klik op de mahjongtegel om deze in het raster onderaan te plaatsen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786211518701568
+    m_Localized: Gids voor voorwerp 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786190408769536
+    m_Localized: Gids voor voorwerp 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786153092046848
+    m_Localized: Gids voor voorwerp 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786125455777792
+    m_Localized: Klik om naar instellingen te gaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14786104568143872
+    m_Localized: Klik om terug te gaan naar home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785827370786816
+    m_Localized: Geen netwerk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785786912530432
+    m_Localized: Land geblokkeerd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785734563422208
+    m_Localized: Wacht even en probeer opnieuw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785711276646400
+    m_Localized: Onvoldoende diamanten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785653542051840
+    m_Localized: Onvoldoende munten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785584029851648
+    m_Localized: Geen keren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785555793797120
+    m_Localized: Vandaag al geclaimd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785497631383552
+    m_Localized: Kan niet claimen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785434955898880
+    m_Localized: Nog geen tijd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785387820310528
+    m_Localized: Herstel aankopen mislukt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785347001344000
+    m_Localized: Herstel aankopen geslaagd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785305721004032
+    m_Localized: Aankoop mislukt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785280056057856
+    m_Localized: Aankoop geslaagd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14785243603361792
+    m_Localized: Onvoldoende foto's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777488029081600
+    m_Localized: Verzamel 7 dagen om de hoofdprijs te openen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777322098221056
+    m_Localized: Sluiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14777088785866752
+    m_Localized: Titel geheime korting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776793578168320
+    m_Localized: Geheime korting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14776458558136320
+    m_Localized: Pas titel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834737460109312
+    m_Localized: Drie identieke mahjongtegels worden verwijderd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834747740348416
+    m_Localized: Verwijder alle mahjongtegels om te winnen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834757135589376
+    m_Localized: Overwinning brengt royale beloningen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834768552484864
+    m_Localized: Je kunt meer coole afbeeldingen en munten krijgen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834800420806656
+    m_Localized: Er is een nieuw evenement gestart! Laten we een kijkje nemen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834816795369472
+    m_Localized: Volgende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14834832196853760
+    m_Localized: Overslaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838537814106112
+    m_Localized: Klik hier om terug te keren naar de lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838664515641344
+    m_Localized: Klik hier om de spelinstellingen te wijzigen
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

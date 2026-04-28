@@ -1,0 +1,146 @@
+
+dt_guan2.png
+size: 932,2081
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jin_00
+  rotate: false
+  xy: 724, 0
+  size: 133, 223
+  orig: 360, 360
+  offset: 0, 8
+  index: -1
+jin_01
+  rotate: true
+  xy: 314, 822
+  size: 173, 282
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jin_02
+  rotate: true
+  xy: 0, 802
+  size: 193, 312
+  orig: 360, 360
+  offset: 16, 0
+  index: -1
+jin_03
+  rotate: false
+  xy: 724, 1067
+  size: 196, 321
+  orig: 360, 360
+  offset: 45, 0
+  index: -1
+jin_04
+  rotate: false
+  xy: 724, 1390
+  size: 192, 336
+  orig: 360, 360
+  offset: 72, 0
+  index: -1
+jin_05
+  rotate: false
+  xy: 724, 741
+  size: 191, 324
+  orig: 360, 360
+  offset: 97, 28
+  index: -1
+jin_06
+  rotate: false
+  xy: 724, 1728
+  size: 208, 353
+  orig: 360, 360
+  offset: 125, 5
+  index: -1
+jin_07
+  rotate: false
+  xy: 724, 463
+  size: 172, 276
+  orig: 360, 360
+  offset: 149, 84
+  index: -1
+jin_08
+  rotate: false
+  xy: 724, 225
+  size: 143, 236
+  orig: 360, 360
+  offset: 193, 120
+  index: -1
+jin_09
+  rotate: false
+  xy: 598, 823
+  size: 100, 172
+  orig: 360, 360
+  offset: 253, 140
+  index: -1
+jinguan_00
+  rotate: false
+  xy: 0, 1721
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_01
+  rotate: false
+  xy: 362, 1721
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_02
+  rotate: false
+  xy: 0, 1359
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_03
+  rotate: false
+  xy: 362, 1359
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_04
+  rotate: false
+  xy: 0, 997
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_05
+  rotate: false
+  xy: 362, 997
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_06
+  rotate: false
+  xy: 0, 379
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_07
+  rotate: false
+  xy: 362, 460
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_08
+  rotate: false
+  xy: 362, 98
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+jinguan_09
+  rotate: false
+  xy: 0, 17
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1

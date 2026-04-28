@@ -1,0 +1,75 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "Tile",
+    "PackageVersion": "v1",
+    "Wrappers": [
+        {
+            "BundleGUID": "16814f7a0d9b9650ca94ebd8b0485d8e",
+            "FileName": "tile_assets_inapp_ui_activity.bundle"
+        },
+        {
+            "BundleGUID": "336452da8c95d89c73f5960c6a0fdf47",
+            "FileName": "tile_assets_inapp_ui_activity_secret.bundle"
+        },
+        {
+            "BundleGUID": "307950b9228d4d6167b5eb2a76f1a202",
+            "FileName": "tile_assets_inapp_ui_common.bundle"
+        },
+        {
+            "BundleGUID": "6afaa976118968a34ea033e76c89975f",
+            "FileName": "tile_assets_inapp_ui_debug.bundle"
+        },
+        {
+            "BundleGUID": "bdf4a865f4efc31871528b818296db91",
+            "FileName": "tile_assets_inapp_ui_game.bundle"
+        },
+        {
+            "BundleGUID": "c866aee09ee6bab3fcd8a6f3439d1fb7",
+            "FileName": "tile_assets_inapp_ui_main.bundle"
+        },
+        {
+            "BundleGUID": "aff186edea28b3dd75e53dec533955bc",
+            "FileName": "tile_audio.bundle"
+        },
+        {
+            "BundleGUID": "a9d728ec6f13d9715d447b9e9a4fc304",
+            "FileName": "tile_config.bundle"
+        },
+        {
+            "BundleGUID": "e1afddbf4a7627fc34c659d9083c30e0",
+            "FileName": "tile_gameui.bundle"
+        },
+        {
+            "BundleGUID": "283489132bc7d2535e2370a9e7352f3b",
+            "FileName": "tile_share_assets_inapp_localize.bundle"
+        },
+        {
+            "BundleGUID": "f393ca7959cf77e0a586f7cee5d49b47",
+            "FileName": "tile_share_assets_inapp_material.bundle"
+        },
+        {
+            "BundleGUID": "7974d00cf547997c71c0872860ddf86c",
+            "FileName": "tile_share_assets_resources_fonts.bundle"
+        },
+        {
+            "BundleGUID": "8ec80c15b2f8b34013c453ca6b0e4a72",
+            "FileName": "tile_share_assets_thirdparty_spine_runtime_spine-unity_materials.bundle"
+        },
+        {
+            "BundleGUID": "bf5f759c6f499a5c6c110e8896ab1f4b",
+            "FileName": "tile_share_assets_thirdparty_spine_runtime_spine-unity_skeletondatamodifierassets_blendmodematerials.bundle"
+        },
+        {
+            "BundleGUID": "408e817164c959b8b5a1011f175f7078",
+            "FileName": "tile_share_assets_thirdparty_textmesh_pro_fonts.bundle"
+        },
+        {
+            "BundleGUID": "d54931cf6b16402befa7b95ba41de0c1",
+            "FileName": "tile_share_assets_thirdparty_textmesh_pro_resources_fonts_&_materials.bundle"
+        },
+        {
+            "BundleGUID": "c8c8e155f02e0c9406e5821d1f49ffaf",
+            "FileName": "tile_unityshaders.bundle"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+
+spine_popup_adventure.png
+size: 248,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 31, 5
+  size: 23, 23
+  orig: 27, 28
+  offset: 2, 2
+  index: -1
+dian2
+  rotate: false
+  xy: 31, 5
+  size: 23, 23
+  orig: 27, 28
+  offset: 2, 2
+  index: -1
+dian3
+  rotate: false
+  xy: 31, 5
+  size: 23, 23
+  orig: 27, 28
+  offset: 2, 2
+  index: -1
+dian4
+  rotate: false
+  xy: 31, 5
+  size: 23, 23
+  orig: 27, 28
+  offset: 2, 2
+  index: -1
+dian5
+  rotate: false
+  xy: 31, 5
+  size: 23, 23
+  orig: 27, 28
+  offset: 2, 2
+  index: -1
+dian6
+  rotate: false
+  xy: 2, 2
+  size: 27, 26
+  orig: 31, 30
+  offset: 2, 2
+  index: -1
+dian7
+  rotate: false
+  xy: 2, 2
+  size: 27, 26
+  orig: 31, 30
+  offset: 2, 2
+  index: -1
+xuanzhongkuang
+  rotate: false
+  xy: 2, 30
+  size: 164, 215
+  orig: 166, 217
+  offset: 1, 1
+  index: -1

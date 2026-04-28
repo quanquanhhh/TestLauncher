@@ -1,0 +1,20 @@
+
+spine_shop_1.png
+size: 280,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xinnn20
+  rotate: false
+  xy: 214, 204
+  size: 64, 74
+  orig: 66, 82
+  offset: 2, 6
+  index: -1
+qp1
+  rotate: false
+  xy: 2, 69
+  size: 210, 209
+  orig: 216, 216
+  offset: 3, 4
+  index: -1

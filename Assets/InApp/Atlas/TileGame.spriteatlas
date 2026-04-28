@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileGame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d1a0f452a5858804b857332bd74fb159, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f0705661e710ec045ae14dab849af620: 21300000
+    - 79e8afb1e5e2e134eadaa60c2adde928: 21300000
+    - a700366210bdf8d448352232d7bdddb8: 21300000
+    - db05e4d2f301f5244b3ef2fddcfdd06b: 21300000
+    - 0c8e4ad26de0744459a74826d28d8bb5: 21300000
+    - 07787bb471bb2364aa31f29b77d71549: 21300000
+    - f874c085b6fce44488999a5e1a59d104: 21300000
+    - dc6c84e57d1d9ed46bc99905ab5c5ec7: 21300000
+    - 607190e797f5a9740af05923a218b264: 21300000
+    - 50831c688f1ab334e96008ddd88e60e3: 21300000
+    - 64839c4ad50574c4abe1c2cbd1446ad6: 21300000
+    - 80e66b4b0a19ab046be39805ee52a92a: 21300000
+    - 8b7d818ba280e184897becca41586c70: 21300000
+    - 5898335d348bf2541b5fad17394fedef: 21300000
+    - 01fdd7dd2488f6d49baedb050809ad72: 21300000
+    - d10dedae86711f14e974f7b70f714c37: 21300000
+    - 5996a5bef739c0a4290679a6147054c7: 21300000
+    - da30c42f654e76845805e452355ecd23: 21300000
+    - 60fe0e2f1203f6848bbd96624ba7f668: 21300000
+    - e729bb7fcf4f20a42aab56932528ea30: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f0705661e710ec045ae14dab849af620, type: 3}
+  - {fileID: 21300000, guid: 79e8afb1e5e2e134eadaa60c2adde928, type: 3}
+  - {fileID: 21300000, guid: a700366210bdf8d448352232d7bdddb8, type: 3}
+  - {fileID: 21300000, guid: db05e4d2f301f5244b3ef2fddcfdd06b, type: 3}
+  - {fileID: 21300000, guid: 0c8e4ad26de0744459a74826d28d8bb5, type: 3}
+  - {fileID: 21300000, guid: 07787bb471bb2364aa31f29b77d71549, type: 3}
+  - {fileID: 21300000, guid: f874c085b6fce44488999a5e1a59d104, type: 3}
+  - {fileID: 21300000, guid: dc6c84e57d1d9ed46bc99905ab5c5ec7, type: 3}
+  - {fileID: 21300000, guid: 607190e797f5a9740af05923a218b264, type: 3}
+  - {fileID: 21300000, guid: 50831c688f1ab334e96008ddd88e60e3, type: 3}
+  - {fileID: 21300000, guid: 64839c4ad50574c4abe1c2cbd1446ad6, type: 3}
+  - {fileID: 21300000, guid: 80e66b4b0a19ab046be39805ee52a92a, type: 3}
+  - {fileID: 21300000, guid: 8b7d818ba280e184897becca41586c70, type: 3}
+  - {fileID: 21300000, guid: 5898335d348bf2541b5fad17394fedef, type: 3}
+  - {fileID: 21300000, guid: 01fdd7dd2488f6d49baedb050809ad72, type: 3}
+  - {fileID: 21300000, guid: d10dedae86711f14e974f7b70f714c37, type: 3}
+  - {fileID: 21300000, guid: 5996a5bef739c0a4290679a6147054c7, type: 3}
+  - {fileID: 21300000, guid: da30c42f654e76845805e452355ecd23, type: 3}
+  - {fileID: 21300000, guid: 60fe0e2f1203f6848bbd96624ba7f668, type: 3}
+  - {fileID: 21300000, guid: e729bb7fcf4f20a42aab56932528ea30, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_mj_2
+  - ui_mj_20
+  - ui_mj_11
+  - ui_mj_18
+  - ui_mj_5
+  - ui_mj_1
+  - ui_mj_10
+  - ui_mj_13
+  - ui_mj_9
+  - ui_mj_7
+  - ui_mj_19
+  - ui_mj_3
+  - ui_mj_12
+  - ui_mj_14
+  - ui_mj_17
+  - ui_mj_4
+  - ui_mj_6
+  - ui_mj_16
+  - ui_mj_8
+  - ui_mj_15
+  m_RenderDataMap: {}
+  m_Tag: TileGame
+  m_IsVariant: 0

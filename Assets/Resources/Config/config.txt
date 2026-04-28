@@ -1,0 +1,25 @@
+{
+  "platform": "Android",
+  "game_name": "Desire Girls",
+  "package_name": "com.Desire.Girls.Mahjong.Match.Tile",
+  "email": "ziiohuio22@outlook.com",
+  "firebase_topic": "",
+  "libs": {
+    "appsflyer": {"dev_key": "", "ios_appid": ""},
+    "adjust": {"dev_key": "emh5nygq3jeo"},
+    "fb_appid": "834362693038690",
+    "fb_apptoken": "71c017340b35a407c658975902db9958",
+    "max": {
+      "rewarded_ad_unit_id":"f6326d2126e4a7dd",
+      "interstitial_ad_unit_id":"f5777f45de9d2bd3",
+      "banner_ad_unit_id":"1344dd4f7a5c5e89",
+      "appopen_ad_unit_id":"cad170e749a79de7"
+    },
+    "topon": {
+      "app_id": "",
+      "app_key": "",
+      "rewarded_ad_unit_id":"",
+      "interstitial_ad_unit_id":""
+    }
+  }
+}
