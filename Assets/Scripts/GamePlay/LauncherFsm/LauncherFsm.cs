@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using Cysharp.Threading.Tasks;
 using DG.Tweening;
 using Foundation;
 using Foundation.FSM;
@@ -27,23 +27,21 @@ namespace GamePlay.LauncherFsm
 
         public string debugInfo;
         public GameObject LoadingView;
+        private Slider _progressSlider;
+        private TextMeshProUGUI _progressText;
+        private TextMeshProUGUI _debugText;
         
         private float _progressVelocity = 0f;
-        private const float SmoothTime = 1f;   // 越小越快，越大越柔和
+        private const float SmoothTime = 0.45f;   // 越小越快，越大越柔和
         private const float MaxSpeed = 100f;
-
-        private bool isDebug = false;
-
-        private Dictionary<string,List<string>> checkTags = new();  
+        private const float MaxLoadingSeconds = 5f;
+        private bool _isClosingLoading = false;
+        private float _launchBeginTime;
 
         public Type[] fsmStateTypes =
         {
             typeof(LauncherSetUpView),
-            typeof(LauncherGetResourceVersion),
-            typeof(LauncherInitializeAsset),
-            typeof(LauncherCheckConfig),
-            typeof(LauncherDownload),
-            typeof(LauncherUpdateOver),
+            typeof(LauncherBootstrap),
             typeof(LauncherGame),
         };
 
@@ -51,14 +49,12 @@ namespace GamePlay.LauncherFsm
 
         public void ShowInitializeText(float progress)
         {
-            if (LoadingView != null)
+            EnsureLoadingRefs();
+            if (_progressSlider != null && _progressText != null)
             {
-                var slider = LoadingView.transform.Find("ProgressSlider").GetComponent<Slider>();
-                var textMeshProugui = LoadingView.transform.Find("ProgressSlider/ProgressText")
-                    .GetComponent<TextMeshProUGUI>();
                 float clampedProgress = Mathf.Clamp(progress, 0f, 100f);
-                slider.value = clampedProgress / 100;
-                textMeshProugui.text = $"Loading... {Mathf.FloorToInt(clampedProgress)}%";
+                _progressSlider.value = clampedProgress / 100;
+                _progressText.text = $"Loading... {Mathf.FloorToInt(clampedProgress)}%";
             }
         }
 
@@ -68,11 +64,42 @@ namespace GamePlay.LauncherFsm
             return;
 #endif
             
-            if (LoadingView != null)
+            EnsureLoadingRefs();
+            if (_debugText != null)
             { 
-                var textMeshProugui = LoadingView.transform.Find("ProgressSlider/DebugInfo")
-                    .GetComponent<TextMeshProUGUI>();
-                textMeshProugui.text = info;
+                _debugText.text = info;
+            }
+        }
+
+        private void EnsureLoadingRefs()
+        {
+            if (LoadingView == null)
+            {
+                return;
+            }
+            if (_progressSlider == null)
+            {
+                var sliderTransform = LoadingView.transform.Find("ProgressSlider");
+                if (sliderTransform != null)
+                {
+                    _progressSlider = sliderTransform.GetComponent<Slider>();
+                }
+            }
+            if (_progressText == null)
+            {
+                var progressTextTransform = LoadingView.transform.Find("ProgressSlider/ProgressText");
+                if (progressTextTransform != null)
+                {
+                    _progressText = progressTextTransform.GetComponent<TextMeshProUGUI>();
+                }
+            }
+            if (_debugText == null)
+            {
+                var debugTextTransform = LoadingView.transform.Find("ProgressSlider/DebugInfo");
+                if (debugTextTransform != null)
+                {
+                    _debugText = debugTextTransform.GetComponent<TextMeshProUGUI>();
+                }
             }
         }
         private void InitRoot()
@@ -104,8 +131,9 @@ namespace GamePlay.LauncherFsm
             Event.Instance.Subscribe<GameUIFinished>(OnGameUIFinished);
         }
 
-        private void OnGameUIFinished(GameUIFinished obj)
+        private async void OnGameUIFinished(GameUIFinished obj)
         {
+            await UniTask.Delay(TimeSpan.FromSeconds(0.25f));
             accumulateProgress = 100;
         }
 
@@ -116,21 +144,37 @@ namespace GamePlay.LauncherFsm
                 throw new UnityException("You must initialize procedure first.");
             }
             
+            MarkLaunchBegin();
             _fsm.Start<LauncherSetUpView>();
         }
 
-        public void AddCheckTag(string name, List<string> tag)
+        public void MarkLaunchBegin()
         {
-            if (!checkTags.ContainsKey(name))
+            if (_launchBeginTime <= 0f)
             {
-                checkTags.Add(name, new List<string>());
+                _launchBeginTime = Time.realtimeSinceStartup;
             }
-            checkTags[name].AddRange(tag);
         }
-        public Dictionary<string, List<string>> GetCheckTags()
+
+        public bool IsLoadingTimeout()
         {
-            return checkTags;
+            if (_launchBeginTime <= 0f)
+            {
+                return false;
+            }
+            return (Time.realtimeSinceStartup - _launchBeginTime) >= MaxLoadingSeconds;
         }
+
+        public int GetRemainLoadingMs()
+        {
+            if (_launchBeginTime <= 0f)
+            {
+                return (int)(MaxLoadingSeconds * 1000f);
+            }
+            float remain = Mathf.Max(0f, MaxLoadingSeconds - (Time.realtimeSinceStartup - _launchBeginTime));
+            return Mathf.CeilToInt(remain * 1000f);
+        }
+
         public void Update()
         {
             if (_fsm == null || LoadingView == null)
@@ -138,18 +182,19 @@ namespace GamePlay.LauncherFsm
                 return;
             }
             
-            if (displayProgress > accumulateProgress )
-            {
-                return;
-            }
             accumulateProgress = Mathf.Clamp(accumulateProgress, 0f, 100f);
+            if (accumulateProgress < 95f && !Mathf.Approximately(accumulateProgress, 100f))
+            {
+                float autoTarget = Mathf.Min(95f, displayProgress + Time.unscaledDeltaTime * 18f);
+                accumulateProgress = Mathf.Max(accumulateProgress, autoTarget);
+            }
             displayProgress = Mathf.SmoothDamp(
                 displayProgress, 
                 accumulateProgress, 
                 ref _progressVelocity,
                 SmoothTime,
                 MaxSpeed,
-                Time.unscaledDeltaTime);
+                Mathf.Max(Time.unscaledDeltaTime, 0.001f));
                     
             if (Mathf.Abs(displayProgress - accumulateProgress) < 0.5f)
             {
@@ -164,8 +209,9 @@ namespace GamePlay.LauncherFsm
                 ShowDebugInfo(debugInfo);
             }
 
-            if (Mathf.Approximately(displayProgress, 100) && Mathf.Approximately(accumulateProgress, 100) )
+            if (!_isClosingLoading && Mathf.Approximately(displayProgress, 100) && Mathf.Approximately(accumulateProgress, 100) )
             {
+                _isClosingLoading = true;
                 //准备关闭loading
                 LoadingView.GetComponent<CanvasGroup>().DOFade(0, 0.35f).SetEase(Ease.OutSine).OnComplete((() =>
                 {
@@ -174,6 +220,9 @@ namespace GamePlay.LauncherFsm
                         bool first = StorageManager.Instance.GetStorage<StatisticsInfo>().FirstPlay;
                         StatisticsMgr.Instance.StatisticsGameOpen(first);
                         GameObject.Destroy(LoadingView);
+                        _progressSlider = null;
+                        _progressText = null;
+                        _debugText = null;
                         StorageManager.Instance.GetStorage<StatisticsInfo>().FirstPlay = false;
                         ScheduleProcess.LoadingFinished = true;
                     }

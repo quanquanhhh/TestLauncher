@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Foundation;
 using Foundation.FSM;
 using Foundation.ScreenSecurity;
@@ -14,7 +13,7 @@ namespace GamePlay.LauncherFsm
     {
         protected internal override void OnInit(IFsm<LauncherFsm> fsm)
         {
-            stepDeltaProgress = 2f;
+            stepDeltaProgress = 5f;
             base.OnInit(fsm);
         }
 
@@ -22,7 +21,6 @@ namespace GamePlay.LauncherFsm
         {
             base.OnEnter(fsm);
             CheckStorage();
-            InitAPPConfigAndSDK();
             ViewUtility.SetUpViewSize();
             ScreenSecurity.EnableAndroidSecureFlag();
             ShowLoading(fsm); 
@@ -39,13 +37,6 @@ namespace GamePlay.LauncherFsm
             storagebase.Add(new StatisticsInfo());
             StorageManager.Instance.Init(storagebase);
         }
-        private void InitAPPConfigAndSDK()
-        {
-            ConfigManager.GetUseConfig();
-            
-            GameCommon.InitSDKsByPlatform();  
-        }
-
         private void ShowLoading(IFsm<LauncherFsm> fsm)
         {
             var load = Resources.Load<GameObject>("Loading/Loading");
@@ -75,7 +66,7 @@ namespace GamePlay.LauncherFsm
                 PhotoArea.gameObject.SetActive(true);
             }
 
-            ChangeState<LauncherGetResourceVersion>(fsm);
+            ChangeState<LauncherBootstrap>(fsm);
         }
     }
 }
